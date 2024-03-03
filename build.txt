@@ -1,0 +1,7 @@
+displayName = 小模组汉化合集（没有前置，详见标题链接，不经常更新的模组放里面）
+author = moon.ditch
+version = 0.3.1
+translationMod = true
+side = Client
+weakReferences = UsefulNPCs, HelpfulNPCs, ExtraPylons, OreSeeds, TerramaniaMod, AutoTorch, NoPylonRestrictions, MirrorOfReturn, ManaFruit, DeathConch, MorePlatforms
+sortAfter = UsefulNPCs, HelpfulNPCs, ExtraPylons, OreSeeds, TerramaniaMod, AutoTorch, NoPylonRestrictions, MirrorOfReturn, ManaFruit, DeathConch, MorePlatforms

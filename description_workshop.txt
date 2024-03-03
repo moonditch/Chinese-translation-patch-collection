@@ -1,0 +1,16 @@
+[h1]This mod is a Chinese Translation Patch of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2817545194]HelpfulNPCs[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2956897719]Useful NPCs[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2797773802]Extra Pylons[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2812767826]Ore Seeds[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3000531515]AutoTorch[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838036678]TerramaniaMod[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2812377597]No Pylon Restrictions[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3089938160]Death Conch[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3147960454]Potion Fountains[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3159258290]Decorative Potions[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2566387467]Ultimate Potions Mod[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3048126617]Mana Fruit[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3170372240]More Platforms[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2843525632]Mirror of Return[/url][/h1]
+[h1]注; 标题内有链接[/h1]
+
+[h1]使用方法[/h1]
+1.同时订阅需要汉化的模组和本Mod
+2.进入tml，在模组管理中同时启用需要汉化的模组和本Mod
+3.安装完成，进行游戏
+
+[h1]介绍[/h1]
+标题有链接
+
+[h1]有问题[/h1]
+选择1.评论区告诉我
+选择2.想闲聊加入qq群596284387（不会同意任何steam好友消息）
+选择3.有确认性bug加qq群895423665或者留言告诉我（答案为“我有问题”）
+选择4.[url=https://steamcommunity.com/groups/liketerraria]steam组[/url]和对应的[url=https://steamcommunity.com/chat/invite/RKieSpPJ]聊天室[/url]

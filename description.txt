@@ -1,0 +1,16 @@
+This mod is a Chinese Translation Patch of HelpfulNPCs and Useful NPCs and ExtraPylons and EvilPylon
+
+使用方法
+1.同时订阅UsefulNPCs或者HelpfulNPCs或着ExtraPylons或者EvilPylon和本Mod
+2.进入tml，在模组管理中同时启用UsefulNPCs或者HelpfulNPCs或着ExtraPylons或者EvilPylon和本Mod
+3.安装完成，进行游戏
+
+介绍
+1.考虑到有人用HelpfulNPCs不用UsefulNPCs，所以不设置任何前置mod
+2.增加更多晶塔和承影更多晶塔未汉化的部分，依旧不需要前置
+
+有问题
+选择1.评论区告诉我
+选择2.想闲聊加入qq群596284387（不会同意任何steam好友消息）
+选择3.有确认性bug加qq群895423665或者留言告诉我（答案为“我有问题”）
+选择4.steam组和对应的聊天室
