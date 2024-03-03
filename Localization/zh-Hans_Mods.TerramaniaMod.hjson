@@ -1,0 +1,315 @@
+Projectiles: {
+	WoodScraps.DisplayName: Wood Scraps
+	WaterArrowSplash.DisplayName: Water Arrow Splash
+	WaterArrow.DisplayName: Water Arrow
+	VenomSpearProj.DisplayName: Venom Spear Proj
+	VenomBlob.DisplayName: Venom Blob
+	TranquilizerDart.DisplayName: Tranquilizer Dart
+	TaserProj.DisplayName: Taser Proj
+	SporeClump.DisplayName: Spore Clump
+	SpectreSpirit.DisplayName: Spectre Spirit
+	SpectreBullet.DisplayName: Spectre Bullet
+	SpectreArrow.DisplayName: Spectre Arrow
+	Spark.DisplayName: Spark
+	Sludge.DisplayName: Sludge
+	SingleSpore.DisplayName: Single Spore
+	PoisonBlob.DisplayName: Poison Blob
+	LightningBugMinion.DisplayName: Lightning Bug Minion
+	JungleSpearProj.DisplayName: Jungle Spear Proj
+	GoblinBeastSpawn.DisplayName: Goblin Beast Spawn
+	GoblinBeastBall.DisplayName: Goblin Beast Ball
+	FireflyMinion.DisplayName: Firefly Minion
+	DiffractionLaser3.DisplayName: Diffraction Laser3
+	DiffractionLaser2.DisplayName: Diffraction Laser2
+	DiffractionLaser1.DisplayName: Diffraction Laser1
+	ColdsnapProj.DisplayName: Coldsnap Proj
+	BowlingBallProj.DisplayName: Bowling Ball Proj
+	BatScree.DisplayName: Bat Scree
+	// LaserLasherProj.DisplayName: Laser Lasher Proj
+	// LasherLaser.DisplayName: Lasher Laser
+	// FlickerWhipLaser.DisplayName: Flicker Whip Laser
+	// FlickerWhipProj.DisplayName: Flicker Whip Proj
+	// WhiplashProj.DisplayName: Whiplash Proj
+	// ExileFireball.DisplayName: Exile Fireball
+	// WispExplosion.DisplayName: Wisp Explosion
+	// WispFireball.DisplayName: Wisp Fireball
+	// WispMinion.DisplayName: Wisp Minion
+}
+
+NPCs: {
+	MistyTail.DisplayName: 液体虫
+	MistyHead.DisplayName: 液体虫
+	MistyBody.DisplayName: 液体虫
+	Leapfrog.DisplayName: 跳蛙
+	GoblinTrainer.DisplayName: 哥布林训练师
+	GoblinBeast.DisplayName: 哥布林野兽
+	ChubbleTail.DisplayName: 查伯兔
+	ChubbleHead.DisplayName: 查伯兔
+	ChubbleBody.DisplayName: 查伯兔
+	Exile.DisplayName: 流放者
+	// ExileFireball.DisplayName: Exile Fireball
+}
+
+Items: {
+	Whiplash: {
+		Tooltip:
+			'''
+			5召唤标记伤害
+			你的召唤将集中攻击敌人
+			有几率造成混乱
+			'''
+		DisplayName: 混乱鞭
+	}
+
+	LightningBugStaff: {
+		Tooltip: 召唤闪电虫为你而战
+		DisplayName: 闪电法杖
+	}
+
+	FireflyStaff: {
+		Tooltip: 召唤萤火虫为你而战
+		DisplayName: 萤火虫法杖
+	}
+
+	Chipper: {
+		Tooltip: 有33%的几率不消耗弹药
+		DisplayName: Chipper
+	}
+
+	Viper: {
+		Tooltip: ""
+		DisplayName: 毒蛇
+	}
+
+	Splitstick: {
+		Tooltip: 留下持久的子弹散布
+		DisplayName: 分裂枪
+	}
+
+	SixShooter: {
+		Tooltip: ""
+		DisplayName: 左轮枪
+	}
+
+	Repetide: {
+		Tooltip: 木箭射得更快，变成飞溅的水箭
+		DisplayName: 液体弓
+	}
+
+	Fusillade: {
+		Tooltip: "'乐趣翻倍!'"
+		DisplayName: 骨弓
+	}
+
+	TribalSpear: {
+		Tooltip: ""
+		DisplayName: 部落长枪
+	}
+
+	TheJungleSpear: {
+		Tooltip: ""
+		DisplayName: 丛林长枪
+	}
+
+	Taser: {
+		Tooltip: ""
+		DisplayName: 泰瑟枪
+	}
+
+	Echolok: {
+		Tooltip: 发出微小的声波
+		DisplayName: 声波剑
+	}
+
+	BowlingBall: {
+		Tooltip: "'出击!'"
+		DisplayName: 保龄球
+	}
+
+	ToxiGun: {
+		Tooltip: ""
+		DisplayName: 毒性
+	}
+
+	SporeGun: {
+		Tooltip: 射出分裂的孢子团
+		DisplayName: 孢子枪
+	}
+
+	Grinder: {
+		Tooltip: ""
+		DisplayName: 粉碎机
+	}
+
+	Diffractinator: {
+		Tooltip: 快速发射激光
+		DisplayName: 衍射器
+	}
+
+	Coldsnap: {
+		Tooltip: ""
+		DisplayName: 寒流
+	}
+
+	SpectreBullet: {
+		Tooltip: 无情地追捕敌人
+		DisplayName: 幽灵子弹
+	}
+
+	SpectreArrow: {
+		Tooltip: 破碎时释放愤怒的灵魂
+		DisplayName: 幽灵箭
+	}
+
+	Scrap: {
+		Tooltip: 用于粉碎机
+		DisplayName: 木屑
+	}
+
+	OrangeScarf: {
+		Tooltip: ":D"
+		DisplayName: DaTacoX's 围巾
+	}
+
+	GooglyGoggles: {
+		Tooltip: ":D"
+		DisplayName: DaTacoX's 护目镜
+	}
+
+	Tranquilizer: {
+		Tooltip: 极大的减慢敌人的速度，使他们变得脆弱
+		DisplayName: 镇静
+	}
+
+	SnakeSkin: {
+		Tooltip: ""
+		DisplayName: 蛇皮
+	}
+
+	ShellFragment: {
+		Tooltip: ""
+		DisplayName: 贝壳碎片
+	}
+
+	LiquidBowstring: {
+		Tooltip: ""
+		DisplayName: 液体弓弦
+	}
+
+	Dewdrop: {
+		Tooltip: ""
+		DisplayName: 露珠
+	}
+
+	ChubbleFur: {
+		Tooltip: ""
+		DisplayName: 查伯兔皮毛
+	}
+
+	ChubblePants: {
+		Tooltip:
+			'''
+			增加20最大魔法值
+			减少16%魔法消耗
+			'''
+		DisplayName: 查伯兔裤子
+	}
+
+	ChubbleHat: {
+		Tooltip:
+			'''
+			增加20最大魔法值
+			增加12%魔法暴击率
+			'''
+		DisplayName: 查伯兔帽子
+	}
+
+	ChubbleCoat: {
+		Tooltip: 增加12%魔法伤害
+		DisplayName: 查伯兔外套
+	}
+
+	GoblinProtein: {
+		Tooltip:
+			'''
+			增加6%近战伤害
+			略微增加近战击退
+			'''
+		DisplayName: 哥布林蛋白质
+	}
+
+	FroggyBoots: {
+		Tooltip:
+			'''
+			跳跃比步行更快
+			站立不动增加跳跃高度
+			'''
+		DisplayName: 青蛙靴子
+	}
+
+	FlowerBracelet: {
+		Tooltip: 让佩戴者“快乐!”
+		DisplayName: 繁花手链
+	}
+
+	FlickerWhip: {
+		Tooltip:
+			'''
+			7召唤标记伤害
+			你的召唤将集中攻击敌人
+			可以发射弹幕
+			'''
+		DisplayName: 珊瑚鞭
+	}
+
+	RainCrest: {
+		DisplayName: 雨滴
+		Tooltip: 召唤暴雨
+	}
+
+	SkeletonStaff: {
+		DisplayName: 骷髅法杖
+		Tooltip:
+			'''
+			召唤一个骷髅为你而战
+			使用两个召唤栏
+			'''
+	}
+}
+
+Buffs: {
+	WhiplashDebuff: {
+		Description: 鞭打减益
+		DisplayName: 鞭打减益
+	}
+
+	TranquilizerDebuff: {
+		Description: 镇静剂减益
+		DisplayName: 镇静剂减益
+	}
+
+	LightningBugMinionBuff: {
+		Description: 闪电虫会为你而战
+		DisplayName: 闪电虫
+	}
+
+	FireflyMinionBuff: {
+		Description: 萤火虫会为你而战
+		DisplayName: 萤火虫
+	}
+
+	LaserLasherDebuff: {
+		// DisplayName: Laser Lasher Debuff
+		// Description: Mods.TerramaniaMod.Buffs.LaserLasherDebuff.Description
+	}
+
+	FlickerWhipDebuff: {
+		// DisplayName: Flicker Whip Debuff
+		// Description: Mods.TerramaniaMod.Buffs.FlickerWhipDebuff.Description
+	}
+
+	WispMinionBuff: {
+		// DisplayName: Skeletal Wisp
+		// Description: The skeletal wisp will fight for you
+	}
+}
