@@ -1,0 +1,599 @@
+Mods: {
+	OreSeeds: {
+		DescriptionTag: {
+			CraftedAt: 精心制作的
+			NoSeeds: 不会掉落种子
+			RareSeeds: 很少掉种子
+			LessSeeds: 降低掉落种子的几率
+			CraftedDemonAltar: 在恶魔祭坛上制作的
+			CraftedCrimsonAltar: 在猩红祭坛上制作
+		}
+
+		#stuff that gets manually added to item descriptions or is used in UI
+		DescriptionInfo: {
+			WaterWarning: 必须在水中生长
+			NightWarning: 最好晚上生长
+			DayWarning: 最好白天生长
+			HellWarning: 只会长在地狱里或地狱附近
+			HardmodeWarning: 只会在困难模式下成长
+			MoonlordWarning: 只会在月亮领主被打败后才会成长
+			ItemInfo: "[c/858585:{按住 ]shift[c/858585: 显示标签，按住]ctrl[c/858585: 显示生长需求方块}]"
+			#recycle ui
+			RecycleInfo: 以 *%的速率接收掉落物
+			RecycleInfo2: 右键单击可全部回收
+			RecycleButton: 回收的种子
+		}
+
+		Tiles: {
+			Recycler.MapEntry: Recycler
+			CopperPlant.MapEntry: 铜种子
+			TinPlant.MapEntry: Tin Plant
+			IronPlant.MapEntry: Iron Plant
+			LeadPlant.MapEntry: Lead Plant
+			SilverPlant.MapEntry: Silver Plant
+			TungstenPlant.MapEntry: Tungsten Plant
+			GoldPlant.MapEntry: Gold Plant
+			PlatinumPlant.MapEntry: Platinum Plant
+			MeteoritePlant.MapEntry: Meteorite Plant
+			DemonitePlant.MapEntry: Demonite Plant
+			CrimtanePlant.MapEntry: Crimtane Plant
+			ObsidianPlant.MapEntry: Obsidian Plant
+			HellstonePlant.MapEntry: Hellstone Plant
+			CobaltPlant.MapEntry: Cobalt Plant
+			PalladiumPlant.MapEntry: Palladium Plant
+			MythrilPlant.MapEntry: Mythril Plant
+			OrichalcumPlant.MapEntry: Orichalcum Plant
+			AdamantitePlant.MapEntry: Adamantite Plant
+			TitaniumPlant.MapEntry: Titanium Plant
+			ChlorophytePlant.MapEntry: Chlorophyte Plant
+			LuminitePlant.MapEntry: Luminite Plant
+			AmethystPlant.MapEntry: Amethyst Plant
+			TopazPlant.MapEntry: Topaz Plant
+			SapphirePlant.MapEntry: Sapphire Plant
+			EmeraldPlant.MapEntry: Emerald Plant
+			RubyPlant.MapEntry: Ruby Plant
+			DiamondPlant.MapEntry: Diamond Plant
+			AmberPlant.MapEntry: Amber Plant
+			FossilPlant.MapEntry: Fossil Plant
+			CrystalPlant.MapEntry: Crystal Plant
+			CursedFlamePlant.MapEntry: Cursed Flame Plant
+			StarPlant.MapEntry: Star Plant
+			BonePlant.MapEntry: Bone Plant
+			SoulofLightPlant.MapEntry: Soul of Light Plant
+			SoulofNightPlant.MapEntry: Soul of Night Plant
+			SoulofFlightPlant.MapEntry: Soul of Flight Plant
+			SoulofMightPlant.MapEntry: Soul of Might Plant
+			SoulofSightPlant.MapEntry: Soul of Sight Plant
+			SoulofFrightPlant.MapEntry: Soul of Fright Plant
+			ThoriumPlant.MapEntry: Thorium Plant
+			SmoothCoalPlant.MapEntry: Smooth Coal Plant
+			OpalPlant.MapEntry: Opal Plant
+			LifeQuartzPlant.MapEntry: Life Quartz Plant
+			AquaitePlant.MapEntry: Aquaite Plant
+			LodestonePlant.MapEntry: Lodestone Plant
+			ValadiumPlant.MapEntry: Valadium Plant
+			IllumitePlant.MapEntry: Illumite Plant
+			SeaPrismPlant.MapEntry: Sea Prism Plant
+			AerialitePlant.MapEntry: Aerialite Plant
+			VictoryShardPlant.MapEntry: Victory Shard Plant
+			CharredPlant.MapEntry: Charred Plant
+			CryonicPlant.MapEntry: Cryonic Plant
+			HallowedPlant.MapEntry: Hallowed Plant
+			PerennialPlant.MapEntry: Perennial Plant
+			ScoriaPlant.MapEntry: Scoria Plant
+			AstralPlant.MapEntry: Astral Plant
+			ChaosEssencePlant.MapEntry: Chaos Essence Plant
+			EleumEssencePlant.MapEntry: Eleum Essence Plant
+			SunlightEssencePlant.MapEntry: Sunlight Essence Plant
+			ExodiumClusterPlant.MapEntry: Exodium Cluster Plant
+			UelibloomPlant.MapEntry: Uelibloom Plant
+			AuricPlant.MapEntry: Auric Plant
+			BlightPlant.MapEntry: Blight Plant
+			CosmodiumPlant.MapEntry: Cosmodium Plant
+			CryotinePlant.MapEntry: Cryotine Plant
+			GelatinePlant.MapEntry: Gelatine Plant
+			CosmorockPlant.MapEntry: Cosmorock Plant
+			CerniumPlant.MapEntry: Cernium Plant
+			FlariumPlant.MapEntry: Flarium Plant
+			OblivionPlant.MapEntry: Oblivion Plant
+			LapisPlant.MapEntry: Lapis Plant
+			EnchantedGranitePlant.MapEntry: Enchanted Granite Plant
+			AncientMarblePlant.MapEntry: Ancient Marble Plant
+			CryolitePlant.MapEntry: Cryolite Plant
+			SpiritPlant.MapEntry: Spirit Plant
+			FloranPlant.MapEntry: Floran Plant
+			PuriumPlant.MapEntry: Purium Plant
+			DalantiniumPlant.MapEntry: Dalantinium Plant
+			LythenPlant.MapEntry: Lythen Plant
+			AquamarinePlant.MapEntry: Aquamarine Plant
+			PalestonePlant.MapEntry: Palestone Plant
+			MoonstonePlant.MapEntry: Moonstone Plant
+			VitricPlant.MapEntry: Vitric Plant
+			AstroscrapPlant.MapEntry: Astroscrap Plant
+			SaltPlant.MapEntry: Salt Plant
+			PepperPlant.MapEntry: Pepper Plant
+			SeaSaltPlant.MapEntry: Sea Salt Plant
+			GrowCrystal.MapEntry: Growth Crystal
+		}
+
+		Items: {
+			RecyclerItem: {
+				DisplayName: 种子回收商
+				Tooltip: 将矿石种子转化为资源
+			}
+
+			CopperSeeds: {
+				DisplayName: 铜种子
+				Tooltip: ""
+			}
+
+			TinSeeds: {
+				DisplayName: 锡种子
+				Tooltip: ""
+			}
+
+			IronSeeds: {
+				DisplayName: 铁种子
+				Tooltip: ""
+			}
+
+			LeadSeeds: {
+				DisplayName: 铅种子
+				Tooltip: ""
+			}
+
+			SilverSeeds: {
+				DisplayName: 银种子
+				Tooltip: ""
+			}
+
+			TungstenSeeds: {
+				DisplayName: 钨种子
+				Tooltip: ""
+			}
+
+			GoldSeeds: {
+				DisplayName: 金种子
+				Tooltip: ""
+			}
+
+			PlatinumSeeds: {
+				DisplayName: 铂金种子
+				Tooltip: ""
+			}
+
+			MeteoriteSeeds: {
+				DisplayName: 陨石种子
+				Tooltip: ""
+			}
+
+			DemoniteSeeds: {
+				DisplayName: 魔金种子
+				Tooltip: ""
+			}
+
+			CrimtaneSeeds: {
+				DisplayName: 猩红种子
+				Tooltip: ""
+			}
+
+			ObsidianSeeds: {
+				DisplayName: 黑曜石种子
+				Tooltip: ""
+			}
+
+			HellstoneSeeds: {
+				DisplayName: 狱石种子
+				Tooltip: ""
+			}
+
+			CobaltSeeds: {
+				DisplayName: 钴种子
+				Tooltip: ""
+			}
+
+			PalladiumSeeds: {
+				DisplayName: 钯金种子
+				Tooltip: ""
+			}
+
+			MythrilSeeds: {
+				DisplayName: 秘银种子
+				Tooltip: ""
+			}
+
+			OrichalcumSeeds: {
+				DisplayName: 山铜种子
+				Tooltip: ""
+			}
+
+			AdamantiteSeeds: {
+				DisplayName: 精金种子
+				Tooltip: ""
+			}
+
+			TitaniumSeeds: {
+				DisplayName: 钛金种子
+				Tooltip: ""
+			}
+
+			ChlorophyteSeeds: {
+				DisplayName: 叶绿种子
+				Tooltip: ""
+			}
+
+			LuminiteSeeds: {
+				DisplayName: 夜明种子
+				Tooltip: ""
+			}
+
+			AmethystSeeds: {
+				DisplayName: 紫水晶种子
+				Tooltip: ""
+			}
+
+			TopazSeeds: {
+				DisplayName: 黄玉种子
+				Tooltip: ""
+			}
+
+			SapphireSeeds: {
+				DisplayName: 蓝宝石种子
+				Tooltip: ""
+			}
+
+			EmeraldSeeds: {
+				DisplayName: 翡翠种子
+				Tooltip: ""
+			}
+
+			RubySeeds: {
+				DisplayName: 红宝石种子
+				Tooltip: ""
+			}
+
+			DiamondSeeds: {
+				DisplayName: 钻石种子
+				Tooltip: ""
+			}
+
+			AmberSeeds: {
+				DisplayName: 琥珀种子
+				Tooltip: ""
+			}
+
+			FossilSeeds: {
+				DisplayName: 化石种子
+				Tooltip: ""
+			}
+
+			CrystalSeeds: {
+				DisplayName: 水晶种子
+				Tooltip: ""
+			}
+
+			CursedFlameSeeds: {
+				DisplayName: 诅咒焰种子
+				Tooltip: ""
+			}
+
+			StarSeeds: {
+				DisplayName: 星种子
+				Tooltip: ""
+			}
+
+			BoneSeeds: {
+				DisplayName: 骨种子
+				Tooltip: ""
+			}
+
+			SoulofLightSeeds: {
+				DisplayName: 光明种子
+				Tooltip: ""
+			}
+
+			SoulofNightSeeds: {
+				DisplayName: 暗影种子
+				Tooltip: ""
+			}
+
+			SoulofFlightSeeds: {
+				DisplayName: 飞翔种子
+				Tooltip: ""
+			}
+
+			SoulofMightSeeds: {
+				DisplayName: 力量种子
+				Tooltip: ""
+			}
+
+			SoulofSightSeeds: {
+				DisplayName: 视域种子
+				Tooltip: ""
+			}
+
+			SoulofFrightSeeds: {
+				DisplayName: 恐惧种子
+				Tooltip: ""
+			}
+
+			ThoriumSeeds: {
+				DisplayName: 瑟银种子
+				Tooltip: ""
+			}
+
+			SmoothCoalSeeds: {
+				DisplayName: 煤炭种子
+				Tooltip: ""
+			}
+
+			OpalSeeds: {
+				DisplayName: 蛋白质种子
+				Tooltip: ""
+			}
+
+			LifeQuartzSeeds: {
+				DisplayName: 生命石英种子
+				Tooltip: ""
+			}
+
+			AquaiteSeeds: {
+				DisplayName: 海洋种子
+				Tooltip: ""
+			}
+
+			LodestoneSeeds: {
+				DisplayName: 地脉种子
+				Tooltip: ""
+			}
+
+			ValadiumSeeds: {
+				DisplayName: 虚金种子
+				Tooltip: ""
+			}
+
+			IllumiteSeeds: {
+				DisplayName: 荧光种子
+				Tooltip: ""
+			}
+
+			SeaPrismSeeds: {
+				DisplayName: 海棱种子
+				Tooltip: ""
+			}
+
+			AerialiteSeeds: {
+				DisplayName: 天蓝种子
+				Tooltip: ""
+			}
+
+			VictoryShardSeeds: {
+				DisplayName: 胜利碎片种子
+				Tooltip: ""
+			}
+
+			CharredSeeds: {
+				DisplayName: 地狱角砾种子
+				Tooltip: ""
+			}
+
+			CryonicSeeds: {
+				DisplayName: 寒元种子
+				Tooltip: ""
+			}
+
+			HallowedSeeds: {
+				DisplayName: 神圣种子
+				Tooltip: ""
+			}
+
+			PerennialSeeds: {
+				DisplayName: 永恒种子
+				Tooltip: ""
+			}
+
+			ScoriaSeeds: {
+				DisplayName: 熔渣种子
+				Tooltip: ""
+			}
+
+			AstralSeeds: {
+				DisplayName: 炫星种子
+				Tooltip: ""
+			}
+
+			ChaosEssenceSeeds: {
+				DisplayName: 混乱种子
+				Tooltip: ""
+			}
+
+			EleumEssenceSeeds: {
+				DisplayName: 冰川种子
+				Tooltip: ""
+			}
+
+			SunlightEssenceSeeds: {
+				DisplayName: 日光种子
+				Tooltip: ""
+			}
+
+			ExodiumClusterSeeds: {
+				DisplayName: 起源种子
+				Tooltip: ""
+			}
+
+			UelibloomSeeds: {
+				DisplayName: 龙篙种子
+				Tooltip: ""
+			}
+
+			AuricSeeds: {
+				DisplayName: 圣金源种子
+				Tooltip: ""
+			}
+
+			BlightSeeds: {
+				DisplayName: Blight Seeds
+				Tooltip: ""
+			}
+
+			CosmodiumSeeds: {
+				DisplayName: Cosmodium Seeds
+				Tooltip: ""
+			}
+
+			CryotineSeeds: {
+				DisplayName: Cryotine Seeds
+				Tooltip: ""
+			}
+
+			GelatineSeeds: {
+				DisplayName: Gelatine Seeds
+				Tooltip: ""
+			}
+
+			CosmorockSeeds: {
+				DisplayName: Cosmorock Seeds
+				Tooltip: ""
+			}
+
+			CerniumSeeds: {
+				DisplayName: Cernium Seeds
+				Tooltip: ""
+			}
+
+			FlariumSeeds: {
+				DisplayName: Flarium Seeds
+				Tooltip: ""
+			}
+
+			OblivionSeeds: {
+				DisplayName: Oblivion Seeds
+				Tooltip: ""
+			}
+
+			LapisSeeds: {
+				DisplayName: Lapis Seeds
+				Tooltip: ""
+			}
+
+			EnchantedGraniteSeeds: {
+				DisplayName: Enchanted Granite Seeds
+				Tooltip: ""
+			}
+
+			AncientMarbleSeeds: {
+				DisplayName: Ancient Marble Seeds
+				Tooltip: ""
+			}
+
+			CryoliteSeeds: {
+				DisplayName: Cryolite Seeds
+				Tooltip: ""
+			}
+
+			SpiritSeeds: {
+				DisplayName: Spirit Seeds
+				Tooltip: ""
+			}
+
+			FloranSeeds: {
+				DisplayName: Floran Seeds
+				Tooltip: ""
+			}
+
+			PuriumSeeds: {
+				DisplayName: Purium Seeds
+				Tooltip: ""
+			}
+
+			DalantiniumSeeds: {
+				DisplayName: Dalantinium Seeds
+				Tooltip: ""
+			}
+
+			LythenSeeds: {
+				DisplayName: Lythen Seeds
+				Tooltip: ""
+			}
+
+			AquamarineSeeds: {
+				DisplayName: Aquamarine Seeds
+				Tooltip: ""
+			}
+
+			PalestoneSeeds: {
+				DisplayName: 苍白种子
+				Tooltip: ""
+			}
+
+			MoonstoneSeeds: {
+				DisplayName: 月长种子
+				Tooltip: ""
+			}
+
+			VitricSeeds: {
+				DisplayName: 琉璃种子
+				Tooltip: ""
+			}
+
+			AstroscrapSeeds: {
+				DisplayName: 异星种子
+				Tooltip: ""
+			}
+
+			SaltSeeds: {
+				DisplayName: 食盐种子
+				Tooltip: ""
+			}
+
+			PepperSeeds: {
+				DisplayName: 黑胡椒种子
+				Tooltip: ""
+			}
+
+			SeaSaltSeeds: {
+				DisplayName: 海盐种子
+				Tooltip: ""
+			}
+
+			GrowCrystalItem: {
+				DisplayName: 生长加速晶体
+				Tooltip:
+					'''
+					加速5个方块内植物微量加速
+					可以影响其他植物促进生长
+					'''
+			}
+		}
+
+		Configs: {
+			GeneralConfig: {
+				DisplayName: 普通配置
+
+				GrowthSpeedMultiplier: {
+					Label: 增长速度乘数
+					Tooltip: ""
+				}
+
+				ShowGrowthAcceledTiles: {
+					Label: 显示增长加速
+					Tooltip: 在每个物块上显示生长加速
+				}
+			}
+
+			GrowthSpeed: {
+				Tooltip: ""
+				RealTime.Label: x0.1
+				VerySlow.Label: x0.25
+				Slow.Label: x0.5
+				Slowish.Label: x0.75
+				Normal.Label: x1
+				Quick.Label: x1.25
+				Fast.Label: x1.5
+				Faster.Label: x2
+				Rapid.Label: x3
+			}
+		}
+	}
+}

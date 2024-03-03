@@ -1,0 +1,80 @@
+Mods: {
+	MorePlatforms: {
+		Items: {
+			AsphaltPlatformItem: {
+				DisplayName: 沥青块平台
+				Tooltip:
+					'''
+					在上面移动时:
+					+350%移动速度
+					-50%停止移动后的惯性
+					'''
+			}
+
+			CrimbrickPlatform: {
+				DisplayName: 猩红石砖平台
+				Tooltip: 由猩红石砖制成的平台。
+			}
+
+			DirtPlatform: {
+				DisplayName: 泥土块平台
+				Tooltip: 由泥土块制成的平台。
+			}
+
+			EbonbrickPlatform: {
+				DisplayName: 黑檀石砖平台
+				Tooltip: 由黑檀石砖制成的平台。
+			}
+
+			InfusedHoneyPlatform: {
+				DisplayName: 浸渍蜂蜜平台
+				Tooltip: 站在平台上获得蜂蜜buff
+			}
+
+			MudPlatform: {
+				DisplayName: 淤泥块平台
+				Tooltip: 由淤泥块制成的平台。
+			}
+
+			PearlbrickPlatform: {
+				DisplayName: 珍珠石砖平台
+				Tooltip: 由珍珠石砖制成的平台。
+			}
+
+			PooPlatform: {
+				DisplayName: 臭臭平台
+				Tooltip: 咦~你现在太臭了！
+			}
+
+			RainbowbrickPlatformItem: {
+				DisplayName: 彩虹砖平台
+				Tooltip: 在彩虹上行走。
+			}
+
+			RedbrickPlatform: {
+				DisplayName: 红砖平台
+				Tooltip: 由红砖制成的平台。
+			}
+
+			SandbrickPlatform: {
+				DisplayName: 沙岩砖平台
+				Tooltip: 由沙岩砖制成的平台。
+			}
+
+			StonePlatform: {
+				DisplayName: 石块平台
+				Tooltip: 由石块制成的平台。
+			}
+
+			CandyCanePlatformItem: {
+				DisplayName: 红糖棒块平台
+				Tooltip: 红色的欢乐甜蜜平台。
+			}
+
+			GreenCandyCanePlatformItem: {
+				DisplayName: 绿糖棒块平台
+				Tooltip: 绿色的欢乐甜蜜平台。
+			}
+		}
+	}
+}

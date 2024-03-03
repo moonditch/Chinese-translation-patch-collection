@@ -1,0 +1,23 @@
+Items: {
+	ManaFruit: {
+		DisplayName: 魔力果
+		Tooltip:
+			'''
+			最大生命永久增加10
+			'令人作呕的水果'
+			'''
+	}
+}
+
+Tiles.ManaFruitTile.MapEntry: 魔力果
+
+Configs: {
+	UIConfig: {
+		DisplayName: UI设置
+
+		DrawAllPurple: {
+			Label: 将魔法星显示成紫色
+			Tooltip: 提升10个魔力果后会以紫色魔法星的的形式出现
+		}
+	}
+}

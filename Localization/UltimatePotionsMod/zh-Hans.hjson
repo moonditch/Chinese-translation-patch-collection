@@ -1,0 +1,1385 @@
+Mods: {
+	UltimatePotionsMod: {
+		Buffs: {
+			AntiCollision: {
+				DisplayName: 免疫碰撞
+				Description: 免疫碰撞伤害
+			}
+
+			AntiDeath: {
+				DisplayName: 免疫Death
+				Description: 你不会死
+			}
+
+			AntiDebuff: {
+				DisplayName: 免疫Debuff
+				Description: 所有人都讨厌debuff
+			}
+
+			AntiImmunity: {
+				DisplayName: 反向免疫
+				Description: 喜欢多次点击吗？
+			}
+
+			DemoniteAmmoReservation: {
+				DisplayName: 魔金弹药储备
+				Description: 30%几率省下弹药
+			}
+
+			DemoniteArchery: {
+				DisplayName: 魔金箭术
+				Description: 箭的速度和伤害增加30%
+			}
+
+			DemoniteBattle: {
+				DisplayName: 魔金战斗
+				Description: 增加敌人生成率
+			}
+
+			DemoniteBuilder: {
+				DisplayName: 魔金建筑
+				Description: 提高放置速度，扩大放置范围
+			}
+
+			DemoniteCalming: {
+				DisplayName: 魔金镇静
+				Description: 敌人生成率降低45%
+			}
+
+			DemoniteEndurance: {
+				DisplayName: 魔金耐力
+				Description: 所受伤害降低15%
+			}
+
+			DemoniteFishing: {
+				DisplayName: 魔金鱼鳃
+				Description: 延长水下呼吸时间
+			}
+
+			DemoniteHeartreach: {
+				DisplayName: 魔金拾心
+				Description: 扩大24格生命之心拾取范围
+			}
+
+			DemoniteIronskin: {
+				DisplayName: 魔金铁皮
+				Description: 防御力增加12
+			}
+
+			DemoniteLifeforce: {
+				DisplayName: 魔金生命力
+				Description: 最大生命增加30%
+			}
+
+			DemoniteMagicPower: {
+				DisplayName: 魔金魔能
+				Description: 增加30%魔法伤害
+			}
+
+			DemoniteManaRegeneration: {
+				DisplayName: 魔金魔力再生
+				Description: 提高魔力再生速度
+			}
+
+			DemoniteMining: {
+				DisplayName: 魔金挖矿
+				Description: 挖矿速度提高38%
+			}
+
+			DemoniteNightOwl: {
+				DisplayName: 魔金夜视
+				Description: 增加夜视能力
+			}
+
+			DemoniteRage: {
+				DisplayName: 魔金暴怒
+				Description: 增加15%暴击率
+			}
+
+			DemoniteRegeneration: {
+				DisplayName: 魔金再生
+				Description: 增加生命再生
+			}
+
+			DemoniteSharp: {
+				DisplayName: 魔金锋利
+				Description: 增加18护甲穿透
+			}
+
+			DemoniteShine: {
+				DisplayName: 魔金光芒
+				Description: 发出光环
+			}
+
+			DemoniteSwiftness: {
+				DisplayName: 魔金敏捷
+				Description: 移动速度提高38%
+			}
+
+			DemoniteThorns: {
+				DisplayName: 魔金荆棘
+				Description: 攻击者也会受到伤害
+			}
+
+			DemoniteTitan: {
+				DisplayName: 魔金泰坦
+				Description: 增加75%击退
+			}
+
+			DemoniteWrath: {
+				DisplayName: 魔金怒气
+				Description: 增加15%伤害
+			}
+
+			HallowedAmmoReservation: {
+				DisplayName: 神圣弹药储备
+				Description: 40%几率省下弹药
+			}
+
+			HallowedArchery: {
+				DisplayName: 神圣箭术
+				Description: 箭的速度和伤害增加40%
+			}
+
+			HallowedBattle: {
+				DisplayName: 神圣战斗
+				Description: 增加敌人生成率
+			}
+
+			HallowedBuilder: {
+				DisplayName: 神圣建筑
+				Description: 提高放置速度，扩大放置范围
+			}
+
+			HallowedCalming: {
+				DisplayName: 神圣镇静
+				Description: 敌人生成率降低60%
+			}
+
+			HallowedEndurance: {
+				DisplayName: 神圣耐力
+				Description: 所受伤害降低20%
+			}
+
+			HallowedFishing: {
+				DisplayName: 神圣鱼鳃
+				Description: 延长水下呼吸时间
+			}
+
+			HallowedHeartreach: {
+				DisplayName: 神圣拾心
+				Description: 扩大32格生命之心拾取范围
+			}
+
+			HallowedIronskin: {
+				DisplayName: 神圣铁皮
+				Description: 防御力增加16
+			}
+
+			HallowedLifeforce: {
+				DisplayName: 神圣生命力
+				Description: 增加40%最大生命
+			}
+
+			HallowedMagicPower: {
+				DisplayName: 神圣魔能
+				Description: 增加40%魔法伤害
+			}
+
+			HallowedManaRegeneration: {
+				DisplayName: 神圣魔力再生
+				Description: 提高魔力再生速度
+			}
+
+			HallowedMining: {
+				DisplayName: 神圣挖矿
+				Description: 挖矿速度提高50%
+			}
+
+			HallowedNightOwl: {
+				DisplayName: 神圣夜视
+				Description: 增加夜视能力
+			}
+
+			HallowedRage: {
+				DisplayName: 神圣暴怒
+				Description: 增加20%暴击率
+			}
+
+			HallowedRegeneration: {
+				DisplayName: 神圣再生
+				Description: 增加生命再生
+			}
+
+			HallowedSharp: {
+				DisplayName: 神圣锋利
+				Description: 增加24护甲穿透
+			}
+
+			HallowedShine: {
+				DisplayName: 神圣发光
+				Description: 发出光环
+			}
+
+			HallowedSummoning: {
+				DisplayName: 神圣召唤
+				Description: 仆从数量上限增加2
+			}
+
+			HallowedSwiftness: {
+				DisplayName: 神圣敏捷
+				Description: 移动速度提高50%
+			}
+
+			HallowedThorns: {
+				DisplayName: 神圣荆棘
+				Description: 攻击者也会受到伤害
+			}
+
+			HallowedTitan: {
+				DisplayName: 神圣泰坦
+				Description: 增加100%击退
+			}
+
+			HallowedWrath: {
+				DisplayName: 神圣怒气
+				Description: 增加20%伤害
+			}
+
+			LuminiteAmmoReservation: {
+				DisplayName: 夜明弹药储备
+				Description: 箭的速度和伤害增加60%
+			}
+
+			LuminiteArchery: {
+				DisplayName: 夜明箭术
+				Description: 箭的速度和伤害增加60%
+			}
+
+			LuminiteBattle: {
+				DisplayName: 夜明战斗
+				Description: 增加敌人生成率
+			}
+
+			LuminiteBuilder: {
+				DisplayName: 夜明建筑
+				Description: 提高放置速度，扩大放置范围
+			}
+
+			LuminiteCalming: {
+				DisplayName: 夜明镇静
+				Description: 敌人生成率降低90%
+			}
+
+			LuminiteEndurance: {
+				DisplayName: 夜明耐力
+				Description: 所受伤害降低30%
+			}
+
+			LuminiteFishing: {
+				DisplayName: 夜明鱼鳃
+				Description: 延长水下呼吸时间
+			}
+
+			LuminiteHeartreach: {
+				DisplayName: 夜明拾心
+				Description: 扩大40格生命之心拾取范围
+			}
+
+			LuminiteIronskin: {
+				DisplayName: 夜明铁皮
+				Description: 防御力增加24
+			}
+
+			LuminiteLifeforce: {
+				DisplayName: 夜明生命力
+				Description: 增加60%最大生命
+			}
+
+			LuminiteMagicPower: {
+				DisplayName: 夜明魔能
+				Description: 增加60%魔法伤害
+			}
+
+			LuminiteManaRegeneration: {
+				DisplayName: 夜明魔力再生
+				Description: 提高放置速度，扩大放置范围
+			}
+
+			LuminiteMining: {
+				DisplayName: 夜明挖矿
+				Description: 挖矿速度提高75%
+			}
+
+			LuminiteNightOwl: {
+				DisplayName: 夜明夜猫子
+				Description: 增加夜视能力
+			}
+
+			LuminiteRage: {
+				DisplayName: 夜明暴怒
+				Description: 增加30%暴击率
+			}
+
+			LuminiteRegeneration: {
+				DisplayName: 夜明再生
+				Description: 增加生命再生
+			}
+
+			LuminiteSharp: {
+				DisplayName: 夜明锋利
+				Description: 增加36护甲穿透
+			}
+
+			LuminiteShine: {
+				DisplayName: 夜明光芒
+				Description: 发出光环
+			}
+
+			LuminiteSummoning: {
+				DisplayName: 夜明召唤
+				Description: 仆从数量上限增加3
+			}
+
+			LuminiteSwiftness: {
+				DisplayName: 夜明敏捷
+				Description: 移动速度提高75%
+			}
+
+			LuminiteThorns: {
+				DisplayName: 夜明荆棘
+				Description: 攻击者也会受到伤害
+			}
+
+			LuminiteTitan: {
+				DisplayName: 夜明泰坦
+				Description: 增加150%击退
+			}
+
+			LuminiteWrath: {
+				DisplayName: 夜明怒气
+				Description: 增加30%伤害
+			}
+
+			Sharp: {
+				DisplayName: 锋利
+				Description: 增加12护甲穿透
+			}
+
+			SpectreAmmoReservation: {
+				DisplayName: 幽灵弹药储备
+				Description: 50%几率省下弹药
+			}
+
+			SpectreArchery: {
+				DisplayName: 幽灵箭术
+				Description: 箭的速度和伤害增加50%
+			}
+
+			SpectreBattle: {
+				DisplayName: 幽灵战斗
+				Description: 增加敌人生成率
+			}
+
+			SpectreBuilder: {
+				DisplayName: 幽灵建筑
+				Description: 提高放置速度，扩大放置范围
+			}
+
+			SpectreCalming: {
+				DisplayName: 幽灵镇静
+				Description: 敌人生成率降低75%
+			}
+
+			SpectreEndurance: {
+				DisplayName: 幽灵耐力
+				Description: 所受伤害降低25%
+			}
+
+			SpectreFishing: {
+				DisplayName: 幽灵鱼鳃
+				Description: 延长水下呼吸时间
+			}
+
+			SpectreHeartreach: {
+				DisplayName: 幽灵拾心
+				Description: 扩大40格生命之心拾取范围
+			}
+
+			SpectreIronskin: {
+				DisplayName: 幽灵铁皮
+				Description: 防御力增加20
+			}
+
+			SpectreLifeforce: {
+				DisplayName: 幽灵生命力
+				Description: 增加50%最大生命
+			}
+
+			SpectreMagicPower: {
+				DisplayName: 幽灵魔能
+				Description: 增加50%魔法伤害
+			}
+
+			SpectreManaRegeneration: {
+				DisplayName: 幽灵魔力再生
+				Description: 提高放置速度，扩大放置范围
+			}
+
+			SpectreMining: {
+				DisplayName: 幽灵挖矿
+				Description: 挖矿速度提高63%
+			}
+
+			SpectreNightOwl: {
+				DisplayName: 幽灵夜视
+				Description: 增加夜视能力
+			}
+
+			SpectreRage: {
+				DisplayName: 幽灵暴怒
+				Description: 增加25%暴击率
+			}
+
+			SpectreRegeneration: {
+				DisplayName: 幽灵再生
+				Description: 增加生命再生
+			}
+
+			SpectreSharp: {
+				DisplayName: 幽灵锋利
+				Description: 增加30护甲穿透
+			}
+
+			SpectreShine: {
+				DisplayName: 幽灵发光
+				Description: 发出光环
+			}
+
+			SpectreSwiftness: {
+				DisplayName: 幽灵敏捷
+				Description: 移动速度提高63%
+			}
+
+			SpectreThorns: {
+				DisplayName: 幽灵荆棘
+				Description: 攻击者也会受到伤害
+			}
+
+			SpectreTitan: {
+				DisplayName: 幽灵泰坦
+				Description: 增加125%击退
+			}
+
+			SpectreWrath: {
+				DisplayName: 幽灵怒气
+				Description: 增加25%伤害
+			}
+
+			UltimateArchery: {
+				DisplayName: 终极箭术
+				Description: 箭的速度和伤害增加20000%
+			}
+
+			UltimateBattle: {
+				DisplayName: 终极战斗
+				Description: 增加2000%的敌人生成率
+			}
+
+			UltimateBuilder: {
+				DisplayName: 终极建筑
+				Description: 你是铸世者
+			}
+
+			UltimateCalming: {
+				DisplayName: 终极镇静
+				Description: 敌人生成率降低30000%
+			}
+
+			UltimateEndurance: {
+				DisplayName: 终极耐力
+				Description:
+					'''
+					所受伤害降低10000%
+					但至少会受到1点伤害
+					'''
+			}
+
+			UltimateFeatherfall: {
+				DisplayName: 终极羽落
+				Description: 按UP或DOWN控制下降速度
+			}
+
+			UltimateFishing: {
+				DisplayName: 终极鱼鳃
+				Description: 无限水下呼吸效果
+			}
+
+			UltimateHeartreach: {
+				DisplayName: 终极拾心
+				Description: 扩大生命之心拾取范围16000格
+			}
+
+			UltimateIronskin: {
+				DisplayName: 终极铁皮
+				Description: 防御力增加8000
+			}
+
+			UltimateLifeforce: {
+				DisplayName: 终极生命力
+				Description: 最大生命增加20000%
+			}
+
+			UltimateMagicPower: {
+				DisplayName: 终极魔能
+				Description: 增加20000%魔法伤害
+			}
+
+			UltimateManaRegeneration: {
+				DisplayName: 终极魔力再生
+				Description: 终极魔力再生
+			}
+
+			UltimateMining: {
+				DisplayName: 终极挖矿
+				Description: 物块像果冻一样软
+			}
+
+			UltimateNightOwl: {
+				DisplayName: 终极夜猫子
+				Description: 增加3000%夜视能力
+			}
+
+			UltimateRage: {
+				DisplayName: 终极暴怒
+				Description: 增加1000%暴击率
+			}
+
+			UltimateRegeneration: {
+				DisplayName: 终极再生
+				Description: 终极生命再生
+			}
+
+			UltimateSharp: {
+				DisplayName: 终极锋利
+				Description: 增加12000护甲穿透
+			}
+
+			UltimateShine: {
+				DisplayName: 终极光芒
+				Description: 终极发光
+			}
+
+			UltimateSummoning: {
+				DisplayName: 终极召唤
+				Description: 仆从数量上限增加1000
+			}
+
+			UltimateSwiftness: {
+				DisplayName: 终极敏捷
+				Description: 移动速度提高25000%
+			}
+
+			UltimateThorns: {
+				DisplayName: 终极荆棘
+				Description: 对攻击者反弹巨量伤害
+			}
+
+			UltimateTitan: {
+				DisplayName: 终极泰坦
+				Description: 击退增加50000%
+			}
+
+			UltimateWrath: {
+				DisplayName: 终极暴怒
+				Description: 伤害提高10000%
+			}
+
+			OneHP: {
+				DisplayName: 一滴血
+				Description: 极限挑战
+			}
+
+			UnlimitedAmmo: {
+				DisplayName: 终极弹药
+				Description: 不再消耗弹药
+			}
+
+			UnlimitedItem: {
+				DisplayName: 终极物品
+				Description: 千刃！
+			}
+
+			UnlimitedItemSpeed: {
+				DisplayName: 终极速度
+				Description: 将物品使用速度提高到最大
+			}
+
+			UnlimitedLife: {
+				DisplayName: 终极再生
+				Description: 瞬间恢复你的生命
+			}
+
+			UnlimitedLifeforce: {
+				DisplayName: 终极生命力
+				Description: 取之不尽，用之不竭
+			}
+
+			UnlimitedMana: {
+				DisplayName: 终极魔力
+				Description: 无限魔力
+			}
+
+			UnlimitedSharp: {
+				DisplayName: 终极锋利
+				Description: 无视敌人的防御
+			}
+
+			ItemSpeed: {
+				DisplayName: 速度
+				Description: 物品使用速度提高10%
+			}
+		}
+
+		Items: {
+			AntiCollisionPotion: {
+				DisplayName: 免疫碰撞药水
+				Tooltip:
+					'''
+					可切换
+					让你免疫碰撞伤害
+					'''
+			}
+
+			AntiDeathPotion: {
+				DisplayName: 免疫死亡药水
+				Tooltip:
+					'''
+					可切换
+					你不会死
+					'''
+			}
+
+			AntiDebuffPotion: {
+				DisplayName: 免疫Debuff药水
+				Tooltip:
+					'''
+					可切换
+					使你免疫所有debuff
+					'''
+			}
+
+			AntiImmunityPotion: {
+				DisplayName: 反向免疫药水
+				Tooltip:
+					'''
+					可切换
+					无视敌人的免疫
+					仅适用弹幕
+					'''
+			}
+
+			AntiLifePotion: {
+				DisplayName: 反向生命药水
+				Tooltip: 立即杀死你
+			}
+
+			AntiRainPotion: {
+				DisplayName: 控雨药水
+				Tooltip:
+					'''
+					可切换
+					不会下雨
+					'''
+			}
+
+			DemoniteAmmoReservationPotion: {
+				DisplayName: 魔金弹药储备药水
+				Tooltip: 30%几率省下弹药
+			}
+
+			DemoniteArcheryPotion: {
+				DisplayName: 魔金箭术药水
+				Tooltip: 箭的速度和伤害增加30%
+			}
+
+			DemoniteBattlePotion: {
+				DisplayName: 魔金战斗药水
+				Tooltip: 增加敌人的生成率
+			}
+
+			DemoniteBuilderPotion: {
+				DisplayName: 魔金建筑药水
+				Tooltip: 提高放置速度，扩大放置范围
+			}
+
+			DemoniteCalmingPotion: {
+				DisplayName: 魔金镇静药水
+				Tooltip: 降低45%敌人的生成率
+			}
+
+			DemoniteEndurancePotion: {
+				DisplayName: 魔金耐力药水
+				Tooltip: 所受伤害降低15%
+			}
+
+			DemoniteFishingPotion: {
+				DisplayName: 魔金鱼鳃药水
+				Tooltip: 增加23渔力
+			}
+
+			DemoniteHeartreachPotion: {
+				DisplayName: 魔金拾心药水
+				Tooltip: 扩大生命之心拾取范围24格
+			}
+
+			DemoniteIronskinPotion: {
+				DisplayName: 魔金铁皮药水
+				Tooltip: 防御力增加12
+			}
+
+			DemoniteLifeforcePotion: {
+				DisplayName: 魔金生命力药水
+				Tooltip: 增加30%最大生命
+			}
+
+			DemoniteMagicPowerPotion: {
+				DisplayName: 魔金魔能药水
+				Tooltip: 增加30%魔法伤害
+			}
+
+			DemoniteManaRegenerationPotion: {
+				DisplayName: 魔金魔力再生药水
+				Tooltip: 提高魔力再生速度
+			}
+
+			DemoniteMiningPotion: {
+				DisplayName: 魔金采矿药水
+				Tooltip: 挖矿速度提高38%
+			}
+
+			DemoniteNightOwlPotion: {
+				DisplayName: 魔金夜猫子药水
+				Tooltip: 增加夜视能力
+			}
+
+			DemoniteRagePotion: {
+				DisplayName: 魔金暴怒药水
+				Tooltip: 增加15%暴击率
+			}
+
+			DemoniteRegenerationPotion: {
+				DisplayName: 魔金再生药水
+				Tooltip: 增加生命再生
+			}
+
+			DemoniteSharpPotion: {
+				DisplayName: 魔金锋利药水
+				Tooltip: 增加18护甲穿透
+			}
+
+			DemoniteShinePotion: {
+				DisplayName: 魔金光芒药水
+				Tooltip: 发出光芒
+			}
+
+			DemoniteSwiftnessPotion: {
+				DisplayName: 魔金敏捷药水
+				Tooltip: 移动速度提高38%
+			}
+
+			DemoniteThornsPotion: {
+				DisplayName: 魔金荆棘药水
+				Tooltip: 攻击者也会受到伤害
+			}
+
+			DemoniteTitanPotion: {
+				DisplayName: 魔金泰坦药水
+				Tooltip: 增加75%击退
+			}
+
+			DemoniteWrathPotion: {
+				DisplayName: 魔金怒气药水
+				Tooltip: 增加15%伤害
+			}
+
+			HallowedAmmoReservationPotion: {
+				DisplayName: 神圣弹药储备药水
+				Tooltip: 40%几率省下弹药
+			}
+
+			HallowedArcheryPotion: {
+				DisplayName: 神圣箭术药水
+				Tooltip: 箭的速度和伤害增加40%
+			}
+
+			HallowedBattlePotion: {
+				DisplayName: 神圣战斗药水
+				Tooltip: 提高敌人生成速度
+			}
+
+			HallowedBuilderPotion: {
+				DisplayName: 神圣建筑药水
+				Tooltip: 提高放置速度，扩大放置范围
+			}
+
+			HallowedCalmingPotion: {
+				DisplayName: 神圣镇静药水
+				Tooltip: 降低60%敌人的生成率
+			}
+
+			HallowedEndurancePotion: {
+				DisplayName: 神圣耐力药水
+				Tooltip: 所受伤害降低20%
+			}
+
+			HallowedFishingPotion: {
+				DisplayName: 神圣鱼鳃药水
+				Tooltip: 增加30渔力
+			}
+
+			HallowedHeartreachPotion: {
+				DisplayName: 神圣拾心药水
+				Tooltip: 扩大24格生命之心拾取范围
+			}
+
+			HallowedIronskinPotion: {
+				DisplayName: 神圣铁皮药水
+				Tooltip: 防御力增加16
+			}
+
+			HallowedLifeforcePotion: {
+				DisplayName: 神圣生命力药水
+				Tooltip: 最大生命增加40%
+			}
+
+			HallowedMagicPowerPotion: {
+				DisplayName: 神圣魔能药水
+				Tooltip: 增加40%魔法伤害
+			}
+
+			HallowedManaRegenerationPotion: {
+				DisplayName: 神圣魔力再生药水
+				Tooltip: 提高魔力再生速度
+			}
+
+			HallowedMiningPotion: {
+				DisplayName: 神圣采矿药水
+				Tooltip: 挖矿速度提高50%
+			}
+
+			HallowedNightOwlPotion: {
+				DisplayName: 神圣夜猫子药水
+				Tooltip: 增加夜视能力
+			}
+
+			HallowedRagePotion: {
+				DisplayName: 神圣暴怒药水
+				Tooltip: 增加20%暴击率
+			}
+
+			HallowedRegenerationPotion: {
+				DisplayName: 神圣再生药水
+				Tooltip: 增加生命再生
+			}
+
+			HallowedSharpPotion: {
+				DisplayName: 神圣锋利药水
+				Tooltip: 增加24护甲穿透
+			}
+
+			HallowedShinePotion: {
+				DisplayName: 神圣光芒药水
+				Tooltip: 发出光芒
+			}
+
+			HallowedSummoningPotion: {
+				DisplayName: 神圣召唤药水
+				Tooltip: 仆从数量上限增加2
+			}
+
+			HallowedSwiftnessPotion: {
+				DisplayName: 神圣敏捷药水
+				Tooltip: 移动速度提高50%
+			}
+
+			HallowedThornsPotion: {
+				DisplayName: 神圣荆棘药水
+				Tooltip: 攻击者也会受到伤害
+			}
+
+			HallowedTitanPotion: {
+				DisplayName: 神圣泰坦药水
+				Tooltip: 增加100%击退
+			}
+
+			HallowedWrathPotion: {
+				DisplayName: 神圣怒气药水
+				Tooltip: 增加20%伤害
+			}
+
+			LuminiteAmmoReservationPotion: {
+				DisplayName: 夜明弹药储备药水
+				Tooltip: 60%几率省下弹药
+			}
+
+			LuminiteArcheryPotion: {
+				DisplayName: 夜明箭术药水
+				Tooltip: 箭的速度和伤害增加60%
+			}
+
+			LuminiteBattlePotion: {
+				DisplayName: 夜明战斗药水
+				Tooltip: 提高放置速度，扩大放置范围
+			}
+
+			LuminiteBuilderPotion: {
+				DisplayName: 夜明建筑药水
+				Tooltip: 提高放置速度，扩大放置范围
+			}
+
+			LuminiteCalmingPotion: {
+				DisplayName: 夜明镇静药水
+				Tooltip: 降低90%敌人的生成率
+			}
+
+			LuminiteEndurancePotion: {
+				DisplayName: 夜明耐力药水
+				Tooltip: 所受伤害降低30%
+			}
+
+			LuminiteFishingPotion: {
+				DisplayName: 夜明鱼鳃药水
+				Tooltip: 增加45渔力
+			}
+
+			LuminiteHeartreachPotion: {
+				DisplayName: 夜明拾心药水
+				Tooltip: 扩大48格生命之心拾取范围
+			}
+
+			LuminiteIronskinPotion: {
+				DisplayName: 夜明铁皮药水
+				Tooltip: 防御力增加24
+			}
+
+			LuminiteLifeforcePotion: {
+				DisplayName: 夜明生命力药水
+				Tooltip: 增加60%最大生命
+			}
+
+			LuminiteMagicPowerPotion: {
+				DisplayName: 夜明魔能药水
+				Tooltip: 增加60%魔法伤害
+			}
+
+			LuminiteManaRegenerationPotion: {
+				DisplayName: 夜明魔力再生药水
+				Tooltip: 提高魔力再生速度
+			}
+
+			LuminiteMiningPotion: {
+				DisplayName: 夜明采矿药水
+				Tooltip: 挖矿速度提高75%
+			}
+
+			LuminiteNightOwlPotion: {
+				DisplayName: 夜明夜猫子药水
+				Tooltip: 增加夜视能力
+			}
+
+			LuminiteRagePotion: {
+				DisplayName: 夜明暴怒药水
+				Tooltip: 增加30%暴击率
+			}
+
+			LuminiteRegenerationPotion: {
+				DisplayName: 夜明再生药水
+				Tooltip: 增加生命再生
+			}
+
+			LuminiteSharpPotion: {
+				DisplayName: 夜明锋利药水
+				Tooltip: 增加36护甲穿透
+			}
+
+			LuminiteShinePotion: {
+				DisplayName: 夜明光芒药水
+				Tooltip: 发出光芒
+			}
+
+			LuminiteSummoningPotion: {
+				DisplayName: 夜明召唤药水
+				Tooltip: 仆从数量上限增加3
+			}
+
+			LuminiteSwiftnessPotion: {
+				DisplayName: 夜明敏捷药水
+				Tooltip: 移动速度提高75%
+			}
+
+			LuminiteThornsPotion: {
+				DisplayName: 夜明荆棘药水
+				Tooltip: 攻击者也会受到伤害
+			}
+
+			LuminiteTitanPotion: {
+				DisplayName: 夜明泰坦药水
+				Tooltip: 增加150%击退
+			}
+
+			LuminiteWrathPotion: {
+				DisplayName: 夜明怒气药水
+				Tooltip: 增加30%伤害
+			}
+
+			CozyFirePotion: {
+				DisplayName: 篝火药水
+				Tooltip: 略微增加生命回复
+			}
+
+			HeartLampPotion: {
+				DisplayName: 心灯药水
+				Tooltip: 增加生命再生
+			}
+
+			HoneyPotion: {
+				DisplayName: 蜂蜜药水
+				Tooltip: 就像站在蜂蜜里一般
+			}
+
+			SharpPotion: {
+				DisplayName: 锋利药水
+				Tooltip: 增加12护甲穿透
+			}
+
+			StarinaPotion: {
+				DisplayName: 星星药水
+				Tooltip: 提高魔力再生速度
+			}
+
+			SpectreAmmoReservationPotion: {
+				DisplayName: 幽灵弹药储备药水
+				Tooltip: 50%几率省下弹药
+			}
+
+			SpectreArcheryPotion: {
+				DisplayName: 幽灵箭术药水
+				Tooltip: 箭的速度和伤害增加50%
+			}
+
+			SpectreBattlePotion: {
+				DisplayName: 幽灵战斗药水
+				Tooltip: 增加敌人的生成率
+			}
+
+			SpectreBuilderPotion: {
+				DisplayName: 幽灵建筑药水
+				Tooltip: 提高放置速度，扩大放置范围
+			}
+
+			SpectreCalmingPotion: {
+				DisplayName: 幽灵镇静药水
+				Tooltip: 降低75%敌人的生成率
+			}
+
+			SpectreEndurancePotion: {
+				DisplayName: 幽灵耐力药水
+				Tooltip: 所受伤害降低25%
+			}
+
+			SpectreFishingPotion: {
+				DisplayName: 幽灵鱼鳃药水
+				Tooltip: 增加38渔力
+			}
+
+			SpectreHeartreachPotion: {
+				DisplayName: 幽灵拾心药水
+				Tooltip: 扩大40格生命之心拾取范围
+			}
+
+			SpectreIronskinPotion: {
+				DisplayName: 幽灵铁皮药水
+				Tooltip: 防御力增加20
+			}
+
+			SpectreLifeforcePotion: {
+				DisplayName: 幽灵生命力药水
+				Tooltip: 最大生命增加50%
+			}
+
+			SpectreMagicPowerPotion: {
+				DisplayName: 幽灵魔能药水
+				Tooltip: 增加50%魔法伤害
+			}
+
+			SpectreManaRegenerationPotion: {
+				DisplayName: 幽灵魔力再生药水
+				Tooltip: 提高魔力再生速度
+			}
+
+			SpectreMiningPotion: {
+				DisplayName: 幽灵采矿药水
+				Tooltip: 挖矿速度提高63%
+			}
+
+			SpectreNightOwlPotion: {
+				DisplayName: 幽灵夜猫子药水
+				Tooltip: 增加夜视能力
+			}
+
+			SpectreRagePotion: {
+				DisplayName: 幽灵暴怒药水
+				Tooltip: 增加25%暴击率
+			}
+
+			SpectreRegenerationPotion: {
+				DisplayName: 幽灵再生药水
+				Tooltip: 增加生命再生
+			}
+
+			SpectreSharpPotion: {
+				DisplayName: 幽灵锋利药水
+				Tooltip: 增加30护甲穿透
+			}
+
+			SpectreShinePotion: {
+				DisplayName: 幽灵光芒药水
+				Tooltip: 发出光芒
+			}
+
+			SpectreSwiftnessPotion: {
+				DisplayName: 幽灵敏捷药水
+				Tooltip: 移动速度提高63%
+			}
+
+			SpectreThornsPotion: {
+				DisplayName: 幽灵荆棘药水
+				Tooltip: 攻击者也会受到伤害
+			}
+
+			SpectreTitanPotion: {
+				DisplayName: 幽灵泰坦药水
+				Tooltip: 增加125%击退
+			}
+
+			SpectreWrathPotion: {
+				DisplayName: 幽灵怒气药水
+				Tooltip: 增加25%伤害
+			}
+
+			UltimateArcheryPotion: {
+				DisplayName: 终极箭术药水
+				Tooltip: 箭的速度和伤害增加20000%
+			}
+
+			UltimateBattlePotion: {
+				DisplayName: 终极战斗药水
+				Tooltip: 增加2000%敌人的生成率
+			}
+
+			UltimateBuilderPotion: {
+				DisplayName: 终极建筑药水
+				Tooltip: 超快的放置速度
+			}
+
+			UltimateCalmingPotion: {
+				DisplayName: 终极镇静药水
+				Tooltip: 降低30000%的敌人生成率
+			}
+
+			UltimateEndurancePotion: {
+				DisplayName: 终极耐力药水
+				Tooltip: 所受伤害降低10000%
+			}
+
+			UltimateFeatherfallPotion: {
+				DisplayName: 终极羽落药水
+				Tooltip: 下降速度非常慢
+			}
+
+			UltimateFishingPotion: {
+				DisplayName: 终极鱼鳃药水
+				Tooltip: 极大的延长水下呼吸时间
+			}
+
+			UltimateHeartreachPotion: {
+				DisplayName: 终极拾心药水
+				Tooltip: 扩大生命之心拾取范围16000格
+			}
+
+			UltimateIronskinPotion: {
+				DisplayName: 终极铁皮药水
+				Tooltip: 防御力增加8000
+			}
+
+			UltimateLifeforcePotion: {
+				DisplayName: 终极生命力药水
+				Tooltip: 增加20000%最大生命
+			}
+
+			UltimateMagicPowerPotion: {
+				DisplayName: 终极魔能药水
+				Tooltip: 增加20000%魔法伤害
+			}
+
+			UltimateManaRegenerationPotion: {
+				DisplayName: 终极魔力再生药水
+				Tooltip: 几乎不消耗魔力
+			}
+
+			UltimateMiningPotion: {
+				DisplayName: 终极挖矿药水
+				Tooltip: 极致的挖矿速度
+			}
+
+			UltimateNightOwlPotion: {
+				DisplayName: 终极夜猫子药水
+				Tooltip: 增加3000%夜视能力
+			}
+
+			UltimateRagePotion: {
+				DisplayName: 终极暴怒药水
+				Tooltip: 增加10000%伤害
+			}
+
+			UltimateRegenerationPotion: {
+				DisplayName: 终极再生药水
+				Tooltip: 生命值几乎会立即回满
+			}
+
+			UltimateSharpPotion: {
+				DisplayName: 终极锋利药水
+				Tooltip: 增加12000护甲穿透
+			}
+
+			UltimateShinePotion: {
+				DisplayName: 终极光芒药水
+				Tooltip: 使你散发出超大范围光环
+			}
+
+			UltimateSummoningPotion: {
+				DisplayName: 终极召唤药水
+				Tooltip: 获得几乎用不完的仆从栏
+			}
+
+			UltimateSwiftnessPotion: {
+				DisplayName: 终极敏捷药水
+				Tooltip: 移动速度提高25000%
+			}
+
+			UltimateThornsPotion: {
+				DisplayName: 终极荆棘药水
+				Tooltip: 攻击者会受到超大量伤害
+			}
+
+			UltimateTitanPotion: {
+				DisplayName: 终极泰坦药水
+				Tooltip: 增加50000%击退
+			}
+
+			UltimateWrathPotion: {
+				DisplayName: 终极怒气药水
+				Tooltip: 增加10000%伤害
+			}
+
+			OneHPPotion: {
+				DisplayName: 一滴血药水
+				Tooltip:
+					'''
+					可切换
+					将最大生命值降低到1
+					'''
+			}
+
+			UnlimitedAmmoPotion: {
+				DisplayName: 终极弹药储备药水
+				Tooltip:
+					'''
+					可切换
+					几乎不消耗弹药
+					'''
+			}
+
+			UnlimitedItemPotion: {
+				DisplayName: 终极物品药水
+				Tooltip:
+					'''
+					可切换
+					不再消耗物品
+					'''
+			}
+
+			UnlimitedItemSpeedPotion: {
+				DisplayName: 终极速度药水
+				Tooltip:
+					'''
+					可切换
+					将物品使用速度提高到最大
+					'''
+			}
+
+			UnlimitedLifeforcePotion: {
+				DisplayName: 终极生命力药水
+				Tooltip:
+					'''
+					可切换
+					最大生命加到极限
+					'''
+			}
+
+			UnlimitedLifePotion: {
+				DisplayName: 终极生命药水
+				Tooltip:
+					'''
+					可切换
+					瞬间恢复你的生命
+					'''
+			}
+
+			UnlimitedManaPotion: {
+				DisplayName: 终极魔力再生药水
+				Tooltip:
+					'''
+					可切换
+					不再消耗法力
+					'''
+			}
+
+			UnlimitedSharpPotion: {
+				DisplayName: 终极锋利药水
+				Tooltip:
+					'''
+					可切换
+					无视敌人的防御
+					'''
+			}
+
+			ItemSpeedPotion: {
+				DisplayName: 速度药水
+				Tooltip: 使用速度提高10%
+			}
+		}
+
+		Configs: {
+			Config: {
+				DisplayName: 设置
+
+				OriginalPotion: {
+					Label: 启用原版药水物品
+					Tooltip: 关闭此功能将阻止原版药水物品加载
+				}
+
+				EnhancedPotion: {
+					Label: 启用强化药水物品
+					Tooltip: 关闭此功能将阻止加载魔金、神圣、幽灵和夜明药水
+				}
+
+				CheatPotion: {
+					Label: 启用作弊药水物品
+					Tooltip: 关闭此功能将阻止加载免疫、终极、反向药水
+				}
+			}
+		}
+	}
+}

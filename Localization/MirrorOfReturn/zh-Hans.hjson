@@ -1,0 +1,15 @@
+Mods: {
+	MirrorOfReturn: {
+		Items: {
+			MirrorOfReturn: {
+				DisplayName: 往返魔镜
+				Tooltip:
+					'''
+					将你传送回出生点或重生点并创建一个传送门
+					进入传送门可回到使用往返魔镜的地方一次
+					每个玩家只能进入自己的传送门
+					'''
+			}
+		}
+	}
+}

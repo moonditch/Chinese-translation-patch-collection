@@ -1,0 +1,61 @@
+Configs: {
+	Config: {
+		DisplayName: 无限制晶塔设置
+
+		rangelimit: {
+			Label: 禁用范围要求
+			Tooltip: 不需要你在晶塔旁边传送
+		}
+
+		npclimit: {
+			Label: 禁用NPC要求
+			Tooltip: 不需要晶塔旁边有npc
+		}
+
+		preplantera: {
+			Label: 禁用阶段要求
+			Tooltip: 允许击败世纪之花之前使用晶塔传送至丛林神庙内
+		}
+
+		typelimit: {
+			Label: 晶塔可以有无数个
+			Tooltip: ""
+		}
+
+		biomelimit: {
+			Label: 禁用晶塔生物群系要求
+			Tooltip: 可以在任何生物群系中放置任何类型的晶塔，比如，洞穴晶塔放在地表
+		}
+
+		dangerlimit: {
+			Label: 危险时使用晶塔
+			Tooltip: 允许在事件/boss战中使用晶塔传送
+		}
+
+		sellpylons: {
+			Label: 晶塔出售设置
+			Tooltip: 无论是否有幸福度，npc都会出售晶塔
+		}
+
+		custompylons: {
+			Label: 模组晶塔出售设置
+			Tooltip: 允许手动增加其他模组的晶塔显示在npc商店(晶塔出售设置必须为all)
+		}
+
+		vendorStatus: {
+			Label: 供应选择
+			Tooltip: 控制晶塔是否会在所有NPC或唯一NPC身上售卖
+		}
+
+		pylonvendor: {
+			Label: 晶塔供应
+			Tooltip: 选择NPC来售卖晶塔
+		}
+	}
+
+	VendorStatus: {
+		Tooltip: ""
+		singlenpc.Label: 唯一npc
+		all.Label: 所有npc
+	}
+}

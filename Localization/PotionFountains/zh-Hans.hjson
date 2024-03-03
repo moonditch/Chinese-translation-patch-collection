@@ -1,0 +1,376 @@
+Mods: {
+	PotionFountains: {
+		Items: {
+			PotionFountain: {
+				DisplayName: 药水喷泉
+				Tooltip: ""
+			}
+
+			IronskinPotionFountain: {
+				DisplayName: 铁皮药水喷泉
+				Tooltip: ""
+			}
+
+			RegenerationPotionFountain: {
+				DisplayName: 再生药水喷泉
+				Tooltip: ""
+			}
+
+			NightOwlPotionFountain: {
+				DisplayName: 夜猫子药水喷泉
+				Tooltip: ""
+			}
+
+			ShinePotionFountain: {
+				DisplayName: 光芒药水喷泉
+				Tooltip: ""
+			}
+
+			SwiftnessPotionFountain: {
+				DisplayName: 敏捷药水喷泉
+				Tooltip: ""
+			}
+
+			FeatherfallPotionFountain: {
+				DisplayName: 羽落药水喷泉
+				Tooltip: ""
+			}
+
+			FlipperPotionFountain: {
+				DisplayName: 脚蹼药水喷泉
+				Tooltip: ""
+			}
+
+			GillsPotionFountain: {
+				DisplayName: 鱼鳃药水喷泉
+				Tooltip: ""
+			}
+
+			GravitationPotionFountain: {
+				DisplayName: 重力药水喷泉
+				Tooltip: ""
+			}
+
+			InvisibilityPotionFountain: {
+				DisplayName: 隐身药水喷泉
+				Tooltip: ""
+			}
+
+			LesserLuckPotionFountain: {
+				DisplayName: 弱效幸运药水喷泉
+				Tooltip: ""
+			}
+
+			ObsidianSkinPotionFountain: {
+				DisplayName: 黑曜石皮肤药水喷泉
+				Tooltip: ""
+			}
+
+			WaterWalkingPotionFountain: {
+				DisplayName: 水上漂药水喷泉
+				Tooltip: ""
+			}
+
+			WrathPotionFountain: {
+				Tooltip: ""
+				DisplayName: 怒气药水喷泉
+			}
+
+			WarmthPotionFountain: {
+				Tooltip: ""
+				DisplayName: 御寒药水喷泉
+			}
+
+			TitanPotionFountain: {
+				Tooltip: ""
+				DisplayName: 泰坦药水喷泉
+			}
+
+			ThornsPotionFountain: {
+				Tooltip: ""
+				DisplayName: 荆棘药水喷泉
+			}
+
+			SummoningPotionFountain: {
+				Tooltip: ""
+				DisplayName: 召唤药水喷泉
+			}
+
+			SpelunkerPotionFountain: {
+				Tooltip: ""
+				DisplayName: 洞穴探险药水喷泉
+			}
+
+			SonarPotionFountain: {
+				Tooltip: ""
+				DisplayName: 声纳药水喷泉
+			}
+
+			RagePotionFountain: {
+				Tooltip: ""
+				DisplayName: 暴怒药水喷泉
+			}
+
+			MiningPotionFountain: {
+				Tooltip: ""
+				DisplayName: 挖矿药水喷泉
+			}
+
+			ManaRegenerationPotionFountain: {
+				Tooltip: ""
+				DisplayName: 魔力再生药水喷泉
+			}
+
+			MagicPowerPotionFountain: {
+				Tooltip: ""
+				DisplayName: 魔能药水喷泉
+			}
+
+			LifeforcePotionFountain: {
+				Tooltip: ""
+				DisplayName: 生命力药水喷泉
+			}
+
+			InfernoPotionFountain: {
+				Tooltip: ""
+				DisplayName: 狱火药水喷泉
+			}
+
+			HunterPotionFountain: {
+				Tooltip: ""
+				DisplayName: 狩猎药水喷泉
+			}
+
+			HeartreachPotionFountain: {
+				Tooltip: ""
+				DisplayName: 拾心药水喷泉
+			}
+
+			FishingPotionFountain: {
+				Tooltip: ""
+				DisplayName: 钓鱼药水喷泉
+			}
+
+			EndurancePotionFountain: {
+				Tooltip: ""
+				DisplayName: 耐力药水喷泉
+			}
+
+			DangersensePotionFountain: {
+				Tooltip: ""
+				DisplayName: 危险感药水喷泉
+			}
+
+			CratePotionFountain: {
+				Tooltip: ""
+				DisplayName: 宝匣药水喷泉
+			}
+
+			CalmingPotionFountain: {
+				Tooltip: ""
+				DisplayName: 镇静药水喷泉
+			}
+
+			BuilderPotionFountain: {
+				Tooltip: ""
+				DisplayName: 建筑工药水喷泉
+			}
+
+			BiomeSightPotionFountain: {
+				Tooltip: ""
+				DisplayName: 环境感知药水喷泉
+			}
+
+			BattlePotionFountain: {
+				Tooltip: ""
+				DisplayName: 战争药水喷泉
+			}
+
+			ArcheryPotionFountain: {
+				Tooltip: ""
+				DisplayName: 箭术药水喷泉
+			}
+
+			AmmoReservationPotionFountain: {
+				Tooltip: ""
+				DisplayName: 弹药储备药水喷泉
+			}
+
+			FlaskOfCursedFlamesFountain: {
+				DisplayName: 诅咒焰瓶喷泉
+				Tooltip: ""
+			}
+
+			FlaskOfFireFountain: {
+				DisplayName: 烈火瓶喷泉
+				Tooltip: ""
+			}
+
+			FlaskOfGoldFountain: {
+				DisplayName: 金瓶喷泉
+				Tooltip: ""
+			}
+
+			FlaskOfIchorFountain: {
+				DisplayName: 灵液瓶喷泉
+				Tooltip: ""
+			}
+
+			FlaskOfNanitesFountain: {
+				DisplayName: 纳米机器人瓶喷泉
+				Tooltip: ""
+			}
+
+			FlaskOfPartyFountain: {
+				DisplayName: 派对瓶喷泉
+				Tooltip: ""
+			}
+
+			FlaskOfPoisonFountain: {
+				DisplayName: 剧毒瓶喷泉
+				Tooltip: ""
+			}
+
+			FlaskOfVenomFountain: {
+				DisplayName: 毒液瓶喷泉
+				Tooltip: ""
+			}
+
+			RedPotionFountain: {
+				DisplayName: 红药水喷泉
+				Tooltip: ""
+			}
+
+			RecallPotionFountain: {
+				DisplayName: 会议药水喷泉
+				Tooltip: ""
+			}
+
+			GenderChangePotionFountain: {
+				DisplayName: 变性药水喷泉
+				Tooltip: ""
+			}
+
+			TeleportationPotionFountain: {
+				DisplayName: 传送药水喷泉
+				Tooltip: ""
+			}
+
+			WormholePotionFountain: {
+				DisplayName: 虫洞药水喷泉
+				Tooltip: ""
+			}
+		}
+
+		Configs: {
+			PotionFountainsConfig: {
+				DisplayName: 模组配置
+
+				Headers: {
+					General: 常规
+					Crafting: 制作
+					Other: 其他
+				}
+
+				FountainsApplyBuffs: {
+					Label: 喷泉是否给予Buff
+					Tooltip: 如果关闭，那么药水喷泉将只能用于装饰。（选项默认开启）
+				}
+
+				FountainBrightness: {
+					Label: 喷泉光亮强度
+					Tooltip: 喷泉散发光芒的强度。
+				}
+
+				StoneForCrafting: {
+					Label: 石块
+					Tooltip: 制作喷泉所需的石块数量。
+				}
+
+				RequireEctoMist: {
+					Label: 墓地环境
+					Tooltip: 如果开启，那么药水喷泉将只能在墓地环境中才可制作。（选项默认关闭）
+				}
+
+				PotionsForCrafting: {
+					Label: 药水
+					Tooltip: 制作喷泉所需的药水数量。
+				}
+
+				AfterDeathRedPotionImmunity: {
+					Label: 死亡免疫红药水喷泉
+					Tooltip: 如果开启，玩家死亡后一分钟内将不受红药水喷泉的影响。（选项默认开启）
+				}
+
+				RequiredCraftingStation: {
+					Label: 工作台
+					Tooltip: 制作喷泉所需什么工作台?
+				}
+
+				CanBeToggledByPlayers: {
+					Label: 玩家开关
+					Tooltip: 如果关闭，那么药水喷泉将只能通过电线开或关。（选项默认开启）
+				}
+
+				ShowAreaOfEffect: {
+					Label: 喷泉Buff覆盖范围
+					Tooltip: 如果开启，那么药水喷泉将显示Buff覆盖范围。（选项默认关闭）
+				}
+
+				EffectRangeLeft: {
+					Label: Buff范围: 左
+					Tooltip: ""
+				}
+
+				EffectRangeRight: {
+					Label: Buff范围: 右
+					Tooltip: ""
+				}
+
+				EffectRangeUp: {
+					Label: Buff范围: 上
+					Tooltip: ""
+				}
+
+				EffectRangeDown: {
+					Label: Buff范围: 下
+					Tooltip: ""
+				}
+
+				BuffEndDelay: {
+					Label: Buff持续时间
+					Tooltip:
+						'''
+						药水喷泉关闭或离开范围后，Buff持续多长时间。(帧)
+						最小:10，最大:600(1秒= 60帧)
+
+						如果你的Buff有时会短暂消失，请尝试增加数值。
+						'''
+				}
+			}
+
+			FountainCraftingStation: {
+				Tooltip: ""
+				HeavyWorkbench.Label: "[i:2172]"
+				MythrilAnvil.Label: "[i:525][i:1220]"
+				AncientManipulator.Label: "[i:3549]"
+				Workbench.Label: "[i:36]"
+				Anvil.Label: "[i:35][i:716]"
+				Hellforge.Label: "[i:221]"
+				CrystalBall.Label: "[i:487]"
+				AdamantiteForge.Label: "[i:524][i:1221]"
+				Autohammer.Label: "[i:1551]"
+				Uncraftable.Label: 空手
+			}
+		}
+
+		CommonMapName: Potion Fountain
+
+		Buffs: {
+			WormholeBuff: {
+				DisplayName: 虫洞
+				Description: 将你传送至你的队友：打开小地图找到队友头像并点击他们的头像即可
+			}
+		}
+	}
+}

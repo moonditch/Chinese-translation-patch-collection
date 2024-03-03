@@ -1,0 +1,37 @@
+Mods: {
+	AutoTorch: {
+		Items: {
+			AutoTorcher: {
+				DisplayName: 自动火把
+				Tooltip: 自动放置火把。
+			}
+
+			AutoBiomeTorcher: {
+				DisplayName: 自动群系火把
+				Tooltip: 根据当前所在生物群系放置火把。
+			}
+		}
+
+		Configs: {
+			AutoTorchConfiguration: {
+				DisplayName: 自动火把设置
+				Headers.Settings: "[i:851] [c/ffeb6e:设置]"
+
+				torchspacing: {
+					Label: 火把间距
+					Tooltip: 自动放置火把之间的方块数量
+				}
+
+				atOnOff: {
+					Label: 启用自动火把
+					Tooltip: 启用自动火把
+				}
+
+				abtOnOff: {
+					Label: 启用自动群系火把
+					Tooltip: 启用自动群系火把
+				}
+			}
+		}
+	}
+}

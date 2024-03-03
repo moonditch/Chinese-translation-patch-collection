@@ -1,0 +1,10 @@
+Items: {
+	DeathConch: {
+		DisplayName: 死亡海螺
+		Tooltip:
+			'''
+			仔细听，你会听到死亡的声音
+			'第二次机会在等着…'
+			'''
+	}
+}

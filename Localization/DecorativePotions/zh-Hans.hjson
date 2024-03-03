@@ -1,0 +1,315 @@
+Mods: {
+	DecorativePotions: {
+		Items: {
+			DecorativeHealingPotion: {
+				DisplayName: 治疗药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeGreaterHealingPotion: {
+				DisplayName: 强效治疗药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeSuperHealingPotion: {
+				DisplayName: 超级治疗药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeManaPotion: {
+				DisplayName: 魔力药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeGreaterManaPotion: {
+				DisplayName: 强效魔力药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeSuperManaPotion: {
+				DisplayName: 超级魔力药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeRestorationPotion: {
+				DisplayName: 恢复药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeAmmoReservationPotion: {
+				DisplayName: 弹药储备药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeArcheryPotion: {
+				DisplayName: 箭术药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeBattlePotion: {
+				DisplayName: 战争药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeBiomeSightPotion: {
+				DisplayName: 环境感知药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeBuilderPotion: {
+				DisplayName: 建筑工药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeCalmingPotion: {
+				DisplayName: 镇静药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeCratePotion: {
+				DisplayName: 宝匣药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeTrapsightPotion: {
+				DisplayName: 危险感药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeEndurancePotion: {
+				DisplayName: 耐力药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeFeatherfallPotion: {
+				DisplayName: 羽落药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeFishingPotion: {
+				DisplayName: 钓鱼药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeFlipperPotion: {
+				DisplayName: 脚蹼药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeGillsPotion: {
+				DisplayName: 鱼鳃药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeGravitationPotion: {
+				DisplayName: 重力药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeLuckPotionGreater: {
+				DisplayName: 强效幸运药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeHeartreachPotion: {
+				DisplayName: 拾心药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeHunterPotion: {
+				DisplayName: 狩猎药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeInfernoPotion: {
+				DisplayName: 狱火药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeInvisibilityPotion: {
+				DisplayName: 隐身药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeIronskinPotion: {
+				DisplayName: 铁皮药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeLuckPotionLesser: {
+				DisplayName: 弱效幸运药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeLuckPotion: {
+				DisplayName: 幸运药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeLifeforcePotion: {
+				DisplayName: 生命力药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeLovePotion: {
+				DisplayName: 爱情药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeMagicPowerPotion: {
+				DisplayName: 魔能药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeManaRegenerationPotion: {
+				DisplayName: 魔力再生药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeMiningPotion: {
+				DisplayName: 挖矿药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeNightOwlPotion: {
+				DisplayName: 夜猫子药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeObsidianSkinPotion: {
+				DisplayName: 黑曜石皮肤药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeRagePotion: {
+				DisplayName: 暴怒药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeRegenerationPotion: {
+				DisplayName: 再生药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeShinePotion: {
+				DisplayName: 光芒药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeSonarPotion: {
+				DisplayName: 声纳药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeSpelunkerPotion: {
+				DisplayName: 洞穴探险药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeStinkPotion: {
+				DisplayName: 臭味药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeSummoningPotion: {
+				DisplayName: 召唤药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeSwiftnessPotion: {
+				DisplayName: 敏捷药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeThornsPotion: {
+				DisplayName: 荆棘药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeTitanPotion: {
+				DisplayName: 泰坦药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeWarmthPotion: {
+				DisplayName: 御寒药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeWaterWalkingPotion: {
+				DisplayName: 水上漂药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeWrathPotion: {
+				DisplayName: 怒气药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeGenderChangePotion: {
+				DisplayName: 变性药水装饰
+				Tooltip: ""
+			}
+
+			DecorativePotionOfReturn: {
+				DisplayName: 返回药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeRecallPotion: {
+				DisplayName: 回忆药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeTeleportationPotion: {
+				DisplayName: 传送药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeWormholePotion: {
+				DisplayName: 虫洞药水装饰
+				Tooltip: ""
+			}
+
+			DecorativeFlaskofCursedFlames: {
+				DisplayName: 诅咒焰瓶装饰
+				Tooltip: ""
+			}
+
+			DecorativeFlaskofFire: {
+				DisplayName: 烈火瓶装饰
+				Tooltip: ""
+			}
+
+			DecorativeFlaskofGold: {
+				DisplayName: 金瓶装饰
+				Tooltip: ""
+			}
+
+			DecorativeFlaskofIchor: {
+				DisplayName: 灵液瓶装饰
+				Tooltip: ""
+			}
+
+			DecorativeFlaskofNanites: {
+				DisplayName: 纳米机器人瓶装饰
+				Tooltip: ""
+			}
+
+			DecorativeFlaskofParty: {
+				DisplayName: 派对瓶装饰
+				Tooltip: ""
+			}
+
+			DecorativeFlaskofPoison: {
+				DisplayName: 剧毒瓶装饰
+				Tooltip: ""
+			}
+
+			DecorativeFlaskofVenom: {
+				DisplayName: 毒液瓶装饰
+				Tooltip: ""
+			}
+		}
+	}
+}
