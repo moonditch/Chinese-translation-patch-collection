@@ -1,0 +1,277 @@
+Items: {
+	NebulaCore: {
+		DisplayName: 星云核心
+		Tooltip: 召唤星云柱
+	}
+
+	DistressBeacon: {
+		Tooltip:
+			'''
+			向太空发送信号，召唤火星入侵
+			不消耗
+			'''
+		DisplayName: 火星信标
+	}
+
+	BrokenDistressBeacon: {
+		Tooltip: 一个损坏的SOS设备，也许可以用某种方式修复.....
+		DisplayName: 损坏的火星信标
+	}
+
+	SolarCore: {
+		DisplayName: 日耀核心
+		Tooltip: 召唤日耀柱
+	}
+
+	StardustCore: {
+		DisplayName: 星尘核心
+		Tooltip: 召唤星尘柱
+	}
+
+	VortexCore: {
+		DisplayName: 星璇核心
+		Tooltip: 召唤星璇柱
+	}
+
+	BifocalVisor: {
+		DisplayName: 机械望远镜
+		Tooltip:
+			'''
+			使用或装备时增加视野范围
+			可以看到电线和危险源
+			'''
+	}
+
+	Twinoculars: {
+		DisplayName: 双子望远镜
+		Tooltip:
+			'''
+			“你能看到所有”
+			使用时增加视野范围，并照亮范围内小部分视野
+			可以看到电线、矿石和危险源
+			放置在背包或时装栏时获得大范围光照效果
+			'''
+	}
+
+	Binoculars.Tooltip: 测试
+
+	BoosterPack: {
+		Tooltip: 右键打开
+		DisplayName: 开局礼包
+	}
+
+	Terrawatch: {
+		Tooltip: ""
+		DisplayName: 泰拉守望
+	}
+
+	Nightwatch: {
+		DisplayName: 时间怀表
+		Tooltip:
+			'''
+			显示时间
+			使用以在清晨和傍晚之间切换
+			右键会跳过一小段时间
+			'''
+	}
+
+	TruffleWormBucket: {
+		DisplayName: 桶装松露
+		Tooltip:
+			'''
+			“闻起来有鱼腥味”
+			召唤猪龙鱼公爵
+			不消耗
+			'''
+	}
+
+	BloodmoonCharm: {
+		DisplayName: 血月护身符
+		Tooltip:
+			'''
+			‘会引起不必要的注意’
+			小幅提高敌怪生成率
+			'''
+	}
+
+	PrismaticConcoction: {
+		DisplayName: 光棱香水
+		Tooltip:
+			'''
+			使七彩草蛉在你周围大幅生成
+			如果不在神圣环境中，七彩草蛉会逃跑
+			“闻起来很香”
+			'''
+	}
+
+	AetherMagnet: {
+		DisplayName: 微光磁铁
+		Tooltip: 显示微光的位置
+	}
+}
+
+InfoDisplays.AetherInfoDisplay.DisplayName: 微光位置
+
+Configs: {
+	Config: {
+		BonusChestLoot: {
+			Label: 宝箱里有额外的物品
+			Tooltip: ""
+		}
+
+		IncreasedPlayerSpeed: {
+			Tooltip: ""
+			Label: 提高基础速度
+		}
+
+		Headers: {
+			Balance: 平衡
+			Player: 玩家
+			NPCS: NPC设置
+			Combat: 战斗
+			WorldGeneration: 世界生成
+			NewItems: 新物品
+			Loot: 拾取物
+			ExtraLoot: 额外掉落物
+		}
+
+		DisplayName: 配置
+
+		IncreasedBasePlayerSpeed: {
+			Label: 提高初始移动速度
+			Tooltip: ""
+		}
+
+		AlwaysSellPylons: {
+			Label: NPC一直出售晶塔
+			Tooltip: ""
+		}
+
+		BonusStartingItems: {
+			Label: 基础物品
+			Tooltip: ""
+		}
+
+		BonusPillarLoot: {
+			Label: 天界柱额外掉落物
+			Tooltip: ""
+		}
+
+		BonusBossLoot: {
+			Label: BOSS额外掉落物
+			Tooltip: ""
+		}
+
+		RareBiomeEnemiesHaveHigherBiomeKeyChance: {
+			Label: 增加群系钥匙的掉落率
+			Tooltip: ""
+		}
+
+		MoreCraftableAccessories: {
+			Tooltip: ""
+			Label: 更多可制作的配饰
+		}
+
+		StartWithEssentials: {
+			Tooltip: ""
+			Label: 开局自带基础物品
+		}
+
+		CraftableUniversalPylon: {
+			Label: 可制作的万能晶塔
+			Tooltip: ""
+		}
+
+		PillarsDropMoreFragments: {
+			Label: 天界塔掉落更多碎片
+			Tooltip: ""
+		}
+
+		IncreasedNaturalPotions: {
+			Tooltip: ""
+			Label: 增加宝箱天然药水的数量
+		}
+
+		CraftableTruffleWorm: {
+			Tooltip: ""
+			Label: 可制作的松露虫
+		}
+
+		CraftableShadowKey: {
+			Tooltip: ""
+			Label: 可制作的暗影钥匙
+		}
+
+		CraftableLifeFruit: {
+			Tooltip: ""
+			Label: 可制作的生命果
+		}
+
+		CraftableMovementAccessories: {
+			Tooltip: ""
+			Label: 可制作的移动性配饰
+		}
+
+		AlternativeFishingPotionRecipes: {
+			Tooltip: ""
+			Label: 药水替代配方
+		}
+
+		PillarsDropSummonItem: {
+			Tooltip: ""
+			Label: 天界柱掉落召唤物品
+		}
+
+		IncreasedNaturalPotionYield: {
+			Tooltip: ""
+			Label: 增加天然药水的数量
+		}
+
+		MartianMadnessSummoningItem: {
+			Tooltip: ""
+			Label: 火星暴乱召唤物
+		}
+
+		BinocularsUpgrades: {
+			Tooltip: ""
+			Label: 双筒望远镜升级
+		}
+
+		TimeControlItem: {
+			Tooltip: ""
+			Label: 时间控制物品
+		}
+
+		BinocularsBuff: {
+			Tooltip: ""
+			Label: 双筒望远镜增益
+		}
+
+		EyeOfCthuluDropLens: {
+			Label: 克苏鲁之眼掉落晶状体
+			Tooltip: ""
+		}
+
+		QueenSlimeDropPearls: {
+			Label: 史莱姆皇后掉落珍珠
+			Tooltip: ""
+		}
+
+		WallOfFleshDropSouls: {
+			Label: 血肉墙掉落光明之魂和暗影之魂
+			Tooltip: ""
+		}
+
+		SkeletronDropGoldenKeys: {
+			Label: 骷髅王掉落金钥匙
+			Tooltip: ""
+		}
+	}
+}
+
+Buffs: {
+	PollinatedBuff: {
+		DisplayName: 馨香
+		Description: 七彩草蛉蜂拥而至
+	}
+}

@@ -1,0 +1,179 @@
+# This file contains all the translations for ModConfig elements.
+# This file shows off the feature of splitting localization files into multiple files. This file is named "{CultureCode}_Mods.ExampleMod.Configs", meaning that the "Mods.ExampleMod.Configs" prefix is assumed for all entries in this file. This can be useful for organization purposes.
+# For more info on the multiple files and prefix features, see https://github.com/tModLoader/tModLoader/wiki/Localization#multiple-files and https://github.com/tModLoader/tModLoader/wiki/Localization#prefix
+
+Common: {
+	LocalizedLabel: This Label is from the localization files: {$Mods.ExampleMod.Common.PaperAirplane}
+	LocalizedTooltip: This tooltip is from the localization files.
+	LocalizedHeader: Headers can help organize
+	LocalizedLabelDynamic: Localized Label Dynamic
+	InterpolatedLabel: Item: [i:{0}]. Number: {1} {^1:change;changes}. Text: {2}. Localized Text: {3}.
+	InterpolatedTooltip: "[c/{1}:Use to disable the] [c/{2}:{0}] [c/{1}:feature]"
+}
+
+MainConfig: {
+	IncreasedBasePlayerSpeed: {
+		Label: 提高基础水平移速
+		Tooltip: 基础水平移速提高50%，不会与灾厄的效果叠加
+	}
+
+	IncreasedBaseMiningSpeed: {
+		Label: 提高初始挖矿速度
+		Tooltip: 基础挖矿速度提高100%，不会与灾厄的效果叠加
+	}
+
+	IncreasedNaturalPotionYield: {
+		Tooltip: 增加金箱和地牢箱中药水的数量
+		Label: 增加天然药水的数量
+	}
+
+	BonusChestLoot: {
+		Tooltip: 天然箱子中会有额外的物品
+		Label: 宝箱额外物品
+	}
+
+	Headers: {
+		WorldGeneration: 世界生成
+		ExtraLoot: 额外掉落
+		NPCS: NPC设置
+		NewItems: 新物品
+		Player: 玩家
+	}
+
+	RareBiomeEnemiesHaveHigherBiomeKeyChance: {
+		Tooltip: 每个生物群系敌怪都有20%概率掉落对应钥匙
+		Label: 增加群系钥匙的掉率
+	}
+
+	SkeletronDropGoldenKeys: {
+		Tooltip: 骷髅王会额外掉落2把金钥匙
+		Label: 骷髅王掉落金钥匙
+	}
+
+	WallOfFleshDropSouls: {
+		Tooltip: 血肉墙会掉落15-25个光明之魂和暗影之魂
+		Label: 血肉墙掉落光明之魂和暗影之魂
+	}
+
+	QueenSlimeDropPearls: {
+		Tooltip: 史莱姆皇后会掉落各种珍珠
+		Label: 史莱姆皇后掉落珍珠
+	}
+
+	EyeOfCthuluDropLens: {
+		Tooltip: 克苏鲁之眼会掉落晶状体，小概率掉落黑色晶状体
+		Label: 克苏鲁之眼掉落晶状体
+	}
+
+	PillarsDropSummonItem: {
+		Tooltip: 天界柱会掉落对应的召唤物
+		Label: 天界柱掉落召唤物品
+	}
+
+	PillarsDropMoreFragments: {
+		Tooltip: 天界柱额外掉落50个碎片
+		Label: 天界柱掉落更多碎片
+	}
+
+	AlwaysSellPylons: {
+		Tooltip: NPC永远都会出售晶塔，但是不快乐的话费用会更高
+		Label: NPC永远出售晶塔
+	}
+
+	DistressBeacon: {
+		Tooltip: 增加破损火星信标和火星信标，可以召唤火星暴乱
+		Label: 增加信标
+	}
+
+	Twinoculars: {
+		Tooltip: 增加机械望远镜和双子望远镜，为双筒望远镜的升级版
+		Label: 双筒望远镜升级
+	}
+
+	BinocularsBuff: {
+		Tooltip: 使用或装备双筒望远镜时获得猎人和夜猫子增益
+		Label: 双筒望远镜额外增益
+	}
+
+	Nightwatch: {
+		Tooltip: 增加时间怀表，可以用来控制时间击败任意邪恶boss后可制作
+		Label: 时间怀表
+	}
+
+	AlternativeFishingPotionRecipes: {
+		Tooltip: 替换药水的合成配方
+		Label: 药水替换配方
+	}
+
+	CraftableTruffleWorm: {
+		Tooltip: 增加松露虫的制作配方，击败所有机械boss后可制作
+		Label: 可合成的松露虫
+	}
+
+	CraftableShadowKey: {
+		Tooltip: 增加暗影钥匙的制作配方，击败骷髅王后可制作
+		Label: 暗影钥匙配方
+	}
+
+	CraftableLifeFruit: {
+		Tooltip: 增加生命果的制作配方，击败世纪之花后可制作
+		Label: 生命果配方
+	}
+
+	CraftableUniversalPylon: {
+		Tooltip: 增加万能晶塔的制作配方，开始就可制作
+		Label: 万能晶塔配方
+	}
+
+	CraftableMovementAccessories: {
+		Tooltip: 增加一些配饰的制作配方，击败史莱姆王后可制作
+		Label: 增加配饰配方
+	}
+
+	StartWithEssentials: {
+		Tooltip: 开始时会为你一些物品，不会与灾厄的新手礼包同时生效
+		Label: 开局物资
+	}
+
+	DisplayName: 配置
+
+	TinkererSellsDPSMeter: {
+		Label: 哥布林工匠出售每秒伤害计数器
+		Tooltip: 哥布林工匠会出售每秒伤害计数器
+	}
+
+	CraftableSlimeStaff: {
+		Label: 史莱姆法杖配方
+		Tooltip: 史莱姆法杖现在可以制作
+	}
+
+	PrismaticConcoction: {
+		Label: 光棱药水
+		Tooltip: 增加光棱药水，更容易获得七彩草蛉
+	}
+
+	BloodmoonCharm: {
+		Label: 血月护身符
+		Tooltip: 增加血月护身符，从血月的敌人身上掉落，可以提高敌怪的生成速度
+	}
+
+	AetherMagnet: {
+		Label: 微光磁铁
+		Tooltip: 增加微光磁铁，可以显示微光的位置
+	}
+
+	SpidersDropSilk: {
+		Label: 蜘蛛掉落丝绸
+		Tooltip: 所有蜘蛛类敌人现在都会掉落丝绸，黑隐士会掉落更多丝绸
+	}
+
+	BonusNaturalPotionYield: {
+		Tooltip: 增加普通宝箱中药水的数量
+		Label: 更多天然药水
+	}
+
+	BonusDungeonPotions: {
+		Tooltip: 地牢箱中会增加暴怒，怒气，狱火三种药水
+		Label: 地牢箱更多药水
+	}
+}

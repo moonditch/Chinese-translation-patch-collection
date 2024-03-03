@@ -1,0 +1,283 @@
+Mods: {
+	ColoredDamageTypes: {
+		Configs: {
+			Config: {
+				DisplayName: 配置
+
+				Headers: {
+					Presets: 预设
+					Toggles: 切换
+					Condense: 延迟显示伤害设置（实验）
+					Debug: 调试设置，请忽略此设置，除非你知道自己在做什么
+				}
+
+				PillarPreset: {
+					Label: 天界四柱颜色
+					Tooltip: 如果开启，那么将修改原版的攻击伤害颜色和面板伤害颜色，以匹配天界四柱的颜色。（选项默认关闭）
+				}
+
+				ChangeTooltipColor: {
+					Label: 改变面板伤害颜色
+					Tooltip: 如果开启，那么此mod将修改面板伤害颜色。（选项默认开启）
+				}
+
+				ChangeDamageColor: {
+					Label: 改变攻击伤害颜色
+					Tooltip: 如果开启，那么此mod将修改攻击伤害颜色。（选项默认开启）
+				}
+
+				ShowDamageNumbers: {
+					Label: 是否显示攻击伤害数字
+					Tooltip: 如果关闭，那么攻击伤害将不会显示数字。（选项默认开启）
+				}
+
+				ShowMultiplayerDamageNumbers: {
+					Label: 是否在多人游戏中显示其他玩家的攻击数字
+					Tooltip: 如果关闭，那么多人游戏中其他玩家的攻击伤害将不会显示数字。（选项默认开启）
+				}
+
+				CondenseDamageHits: {
+					Label: 延迟显示伤害数值（数值为0则是禁用）
+					Tooltip: 攻击伤害数字只会在攻击x次之后显示。
+				}
+
+				ShowCondenseDamageOnKill: {
+					Label: （此选项只有在上方设置不为0时生效）攻击伤害数字是否在生物死亡时弹出
+					Tooltip: 如果开启，那么攻击伤害数字将会在生物死亡时弹出。（选项默认开启）
+				}
+
+				DebugMode: {
+					Label: Debug Mode
+					Tooltip: Don't turn on.
+				}
+
+				DebugModeTooltips: {
+					Label: Debug Mode Tooltips
+					Tooltip: Don't turn on.
+				}
+
+				DebugModeFields: {
+					Label: Debug Mode Fields
+					Tooltip: Don't turn on.
+				}
+
+				DebugModeMultiplayer: {
+					Label: Debug Mode (Multiplayer)
+					Tooltip: Don't turn on.
+				}
+			}
+
+			DamageConfig: {
+				DisplayName: 伤害颜色设置
+				Headers.Colors: 伤害颜色设置
+
+				VanillaDmg: {
+					Label: 原版
+					Tooltip: ""
+				}
+			}
+
+			Vanilla: {
+				Tooltip: ""
+
+				MeleeDmg: {
+					Label: 近战
+					Tooltip: ""
+				}
+
+				RangedDmg: {
+					Label: 远程
+					Tooltip: ""
+				}
+
+				MagicDmg: {
+					Label: 魔法
+					Tooltip: ""
+				}
+
+				ThrowingDmg: {
+					Label: 投掷
+					Tooltip: ""
+				}
+
+				SummonDmg: {
+					Label: 召唤
+					Tooltip: ""
+				}
+
+				SentryDmg: {
+					Label: 哨兵
+					Tooltip: ""
+				}
+
+				TooltipDefense: {
+					Label: 防御
+					Tooltip: 面板防御颜色
+				}
+
+				TooltipMelee: {
+					Label: 近战
+					Tooltip: 近战面板伤害颜色
+				}
+
+				TooltipRanged: {
+					Label: 远程
+					Tooltip: 远程面板伤害颜色
+				}
+
+				TooltipMagic: {
+					Label: 魔法
+					Tooltip: 魔法面板伤害颜色
+				}
+
+				TooltipThrowing: {
+					Label: 投掷
+					Tooltip: 投掷面板伤害颜色
+				}
+
+				TooltipSummon: {
+					Label: 召唤
+					Tooltip: 召唤面板伤害颜色
+				}
+
+				TooltipSentry: {
+					Label: 哨兵
+					Tooltip: 哨兵面板伤害颜色
+				}
+			}
+
+			Melee: {
+				Tooltip: ""
+
+				MeleeDamage: {
+					Label: 正常
+					Tooltip: 近战攻击伤害颜色
+				}
+
+				MeleeDamageCrit: {
+					Label: 暴击
+					Tooltip: 近战攻击暴击伤害颜色
+				}
+			}
+
+			Ranged: {
+				Tooltip: ""
+
+				RangedDamage: {
+					Label: 正常
+					Tooltip: 远程攻击伤害颜色
+				}
+
+				RangedDamageCrit: {
+					Label: 暴击
+					Tooltip: 远程攻击暴击伤害颜色
+				}
+			}
+
+			Magic: {
+				Tooltip: ""
+
+				MagicDamage: {
+					Label: 正常
+					Tooltip: 魔法攻击伤害颜色
+				}
+
+				MagicDamageCrit: {
+					Label: 暴击
+					Tooltip: 魔法攻击暴击伤害颜色
+				}
+			}
+
+			Throwing: {
+				Tooltip: ""
+
+				ThrowingDamage: {
+					Label: 正常
+					Tooltip: 投掷攻击伤害颜色
+				}
+
+				ThrowingDamageCrit: {
+					Label: 暴击
+					Tooltip: 投掷攻击暴击伤害颜色
+				}
+			}
+
+			Summon: {
+				Tooltip: ""
+
+				SummonDamage: {
+					Label: 正常
+					Tooltip: 召唤攻击伤害颜色
+				}
+
+				SummonDamageCrit: {
+					Label: 暴击
+					Tooltip: 召唤攻击暴击伤害颜色（需要有模组允许召唤伤害暴击）
+				}
+			}
+
+			Sentry: {
+				Tooltip: ""
+
+				SentryDamage: {
+					Label: 正常
+					Tooltip: 哨兵攻击伤害颜色
+				}
+
+				SentryDamageCrit: {
+					Label: 暴击
+					Tooltip: 哨兵攻击暴击伤害颜色（需要有模组允许哨兵伤害暴击）
+				}
+			}
+
+			TooltipsConfig: {
+				DisplayName: 面板颜色设置
+				Headers.Colors: 面板颜色设置
+
+				VanillaTT: {
+					Label: 原版
+					Tooltip: ""
+				}
+			}
+
+			zCrossModConfig: {
+				DisplayName: 兼容配置
+				Headers.ModCompat:
+					'''
+					模组兼容
+					如果你改变了这里的设置，那么有新的伤害类型被添加
+					你需要“恢复默认设置”。
+					'''
+
+				CrossModDamageConfig: {
+					Label: 其他模组添加的颜色和伤害类型:
+					Tooltip: ""
+				}
+			}
+
+			DamageType: {
+				Tooltip: ""
+
+				dtname: {
+					Label: 伤害类型（仅供参考）
+					Tooltip: 仅供参考，改变此设置毫无用处。
+				}
+
+				TooltipColor: {
+					Label: 面板伤害颜色
+					Tooltip: 面板伤害颜色
+				}
+
+				DamageColor: {
+					Label: 攻击伤害颜色
+					Tooltip: 攻击伤害颜色
+				}
+
+				CritDamageColor: {
+					Label: 暴击攻击伤害颜色
+					Tooltip: 暴击攻击伤害颜色
+				}
+			}
+		}
+	}
+}
